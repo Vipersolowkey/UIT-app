@@ -1,0 +1,7 @@
+[
+    {
+        "id": "demo_doc",
+        "title": "Demo RAG Document",
+        "path": "data/raw/demo.txt"
+    }
+]

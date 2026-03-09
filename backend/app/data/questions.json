@@ -1,0 +1,4965 @@
+[
+  {
+    "id": "oop-midterm-mcq-001",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Tính đóng gói trong OOP là gì?",
+    "options": [
+      "Ẩn dữ liệu và chỉ cho phép truy cập qua phương thức",
+      "Kế thừa từ lớp cha",
+      "Ghi đè phương thức",
+      "Tạo nhiều constructor"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "oop-midterm-mcq-002",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Override nghĩa là gì?",
+    "options": [
+      "Nạp chồng toán tử",
+      "Ghi đè phương thức ở lớp con",
+      "Ẩn dữ liệu",
+      "Tạo lớp trừu tượng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-003",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-004",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-005",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-006",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "exception",
+    "question": "[exception] Tính đóng gói trong OOP là gì?",
+    "options": [
+      "Ẩn dữ liệu và chỉ cho phép truy cập qua phương thức",
+      "Kế thừa từ lớp cha",
+      "Ghi đè phương thức",
+      "Tạo nhiều constructor"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "oop-midterm-mcq-007",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-008",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Override nghĩa là gì?",
+    "options": [
+      "Nạp chồng toán tử",
+      "Ghi đè phương thức ở lớp con",
+      "Ẩn dữ liệu",
+      "Tạo lớp trừu tượng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-009",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-010",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-011",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-012",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "exception",
+    "question": "[exception] Override nghĩa là gì?",
+    "options": [
+      "Nạp chồng toán tử",
+      "Ghi đè phương thức ở lớp con",
+      "Ẩn dữ liệu",
+      "Tạo lớp trừu tượng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-013",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "templates",
+    "question": "[templates] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-014",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Tính đóng gói trong OOP là gì?",
+    "options": [
+      "Ẩn dữ liệu và chỉ cho phép truy cập qua phương thức",
+      "Kế thừa từ lớp cha",
+      "Ghi đè phương thức",
+      "Tạo nhiều constructor"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "oop-midterm-mcq-015",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "inheritance",
+    "question": "[inheritance] Destructor được gọi khi nào?",
+    "options": [
+      "Khi tạo object",
+      "Khi object bị hủy",
+      "Khi gọi constructor",
+      "Khi overload operator"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-016",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Abstract class thường dùng để?",
+    "options": [
+      "Tạo đối tượng trực tiếp",
+      "Định nghĩa khung cho lớp con",
+      "Lưu dữ liệu tĩnh",
+      "Chạy nhanh hơn interface"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-017",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "inheritance",
+    "question": "[inheritance] Override nghĩa là gì?",
+    "options": [
+      "Nạp chồng toán tử",
+      "Ghi đè phương thức ở lớp con",
+      "Ẩn dữ liệu",
+      "Tạo lớp trừu tượng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-018",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-019",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Destructor được gọi khi nào?",
+    "options": [
+      "Khi tạo object",
+      "Khi object bị hủy",
+      "Khi gọi constructor",
+      "Khi overload operator"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-020",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Interface (Java/C#) đặc trưng bởi?",
+    "options": [
+      "Chứa biến instance",
+      "Chỉ khai báo method (thường) và hằng",
+      "Không thể implement",
+      "Có constructor"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-021",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-022",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Tính đóng gói trong OOP là gì?",
+    "options": [
+      "Ẩn dữ liệu và chỉ cho phép truy cập qua phương thức",
+      "Kế thừa từ lớp cha",
+      "Ghi đè phương thức",
+      "Tạo nhiều constructor"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "oop-midterm-mcq-023",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "templates",
+    "question": "[templates] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-024",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Destructor được gọi khi nào?",
+    "options": [
+      "Khi tạo object",
+      "Khi object bị hủy",
+      "Khi gọi constructor",
+      "Khi overload operator"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-025",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-026",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-027",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-028",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-029",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Override nghĩa là gì?",
+    "options": [
+      "Nạp chồng toán tử",
+      "Ghi đè phương thức ở lớp con",
+      "Ẩn dữ liệu",
+      "Tạo lớp trừu tượng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-mcq-030",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-midterm-essay-001",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "IS-A (inheritance)",
+      "HAS-A (composition)",
+      "Ưu/nhược"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-002",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "abstraction",
+    "question": "[abstraction] Mô tả quan hệ HAS-A và IS-A, khi nào dùng composition vs inheritance.",
+    "rubric": [
+      "Virtual/override",
+      "Con trỏ/tham chiếu lớp cha",
+      "Dispatch runtime"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-003",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "inheritance",
+    "question": "[inheritance] Giải thích đa hình động (runtime polymorphism) và ví dụ.",
+    "rubric": [
+      "Virtual/override",
+      "Con trỏ/tham chiếu lớp cha",
+      "Dispatch runtime"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-004",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Giải thích đa hình động (runtime polymorphism) và ví dụ.",
+    "rubric": [
+      "Đóng gói",
+      "Kế thừa",
+      "Đa hình",
+      "Trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-005",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "inheritance",
+    "question": "[inheritance] Giải thích nguyên lý SOLID (chọn 2-3 nguyên lý) và ví dụ.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-006",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "inheritance",
+    "question": "[inheritance] Mô tả quan hệ HAS-A và IS-A, khi nào dùng composition vs inheritance.",
+    "rubric": [
+      "IS-A (inheritance)",
+      "HAS-A (composition)",
+      "Ưu/nhược"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-007",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "abstraction",
+    "question": "[abstraction] Giải thích nguyên lý SOLID (chọn 2-3 nguyên lý) và ví dụ.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-008",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-009",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "class-object",
+    "question": "[class-object] Giải thích đa hình động (runtime polymorphism) và ví dụ.",
+    "rubric": [
+      "IS-A (inheritance)",
+      "HAS-A (composition)",
+      "Ưu/nhược"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-010",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "abstraction",
+    "question": "[abstraction] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-011",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "operator-overload",
+    "question": "[operator-overload] So sánh abstract class và interface.",
+    "rubric": [
+      "IS-A (inheritance)",
+      "HAS-A (composition)",
+      "Ưu/nhược"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-essay-012",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "essay",
+    "topic": "exception",
+    "question": "[exception] Mô tả quan hệ HAS-A và IS-A, khi nào dùng composition vs inheritance.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-midterm-coding-001",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "abstraction",
+    "title": "[abstraction] Operator Overload +",
+    "description": "Định nghĩa struct Fraction (a/b). Viết nạp chồng toán tử + để cộng hai phân số và rút gọn.",
+    "samples": [
+      {
+        "input": "1 2\n1 3\n",
+        "output": "5/6\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Operator Overload +\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Operator Overload +\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Operator Overload +\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-midterm-coding-002",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "polymorphism",
+    "title": "[polymorphism] Inheritance Vehicle",
+    "description": "Lớp Vehicle có speed. Lớp Car có seats. Nhập 1 xe và in thông tin.",
+    "samples": [
+      {
+        "input": "80 5\n",
+        "output": "Vehicle speed=80\nCar seats=5\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Inheritance Vehicle\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Inheritance Vehicle\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Inheritance Vehicle\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-midterm-coding-003",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "solid",
+    "title": "[solid] Polymorphism Area",
+    "description": "Tạo lớp Shape có method area(). Lớp con Rectangle(w,h), Circle(r). Cho danh sách shape, tính tổng diện tích.",
+    "samples": [
+      {
+        "input": "2\nrect 2 3\ncircle 1\n",
+        "output": "9.1416\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Polymorphism Area\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Polymorphism Area\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Polymorphism Area\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-midterm-coding-004",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "exception",
+    "title": "[exception] Inheritance Vehicle",
+    "description": "Lớp Vehicle có speed. Lớp Car có seats. Nhập 1 xe và in thông tin.",
+    "samples": [
+      {
+        "input": "80 5\n",
+        "output": "Vehicle speed=80\nCar seats=5\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Inheritance Vehicle\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Inheritance Vehicle\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Inheritance Vehicle\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-midterm-coding-005",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "exception",
+    "title": "[exception] Polymorphism Area",
+    "description": "Tạo lớp Shape có method area(). Lớp con Rectangle(w,h), Circle(r). Cho danh sách shape, tính tổng diện tích.",
+    "samples": [
+      {
+        "input": "2\nrect 2 3\ncircle 1\n",
+        "output": "9.1416\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Polymorphism Area\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Polymorphism Area\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Polymorphism Area\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-midterm-coding-006",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "polymorphism",
+    "title": "[polymorphism] Operator Overload +",
+    "description": "Định nghĩa struct Fraction (a/b). Viết nạp chồng toán tử + để cộng hai phân số và rút gọn.",
+    "samples": [
+      {
+        "input": "1 2\n1 3\n",
+        "output": "5/6\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Operator Overload +\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Operator Overload +\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Operator Overload +\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-midterm-coding-007",
+    "subject": "oop",
+    "timing": "midterm",
+    "examId": "oop_mid_2024",
+    "type": "coding",
+    "topic": "solid",
+    "title": "[solid] Encapsulation BankAccount",
+    "description": "Viết lớp BankAccount với balance private. Có deposit, withdraw (không cho âm). In ra balance cuối.",
+    "samples": [
+      {
+        "input": "3\ndeposit 100\nwithdraw 30\nwithdraw 1000\n",
+        "output": "70\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Encapsulation BankAccount\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Encapsulation BankAccount\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Encapsulation BankAccount\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-mcq-001",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Tính đóng gói trong OOP là gì?",
+    "options": [
+      "Ẩn dữ liệu và chỉ cho phép truy cập qua phương thức",
+      "Kế thừa từ lớp cha",
+      "Ghi đè phương thức",
+      "Tạo nhiều constructor"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "oop-final-mcq-002",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-003",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "inheritance",
+    "question": "[inheritance] Destructor được gọi khi nào?",
+    "options": [
+      "Khi tạo object",
+      "Khi object bị hủy",
+      "Khi gọi constructor",
+      "Khi overload operator"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-004",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Destructor được gọi khi nào?",
+    "options": [
+      "Khi tạo object",
+      "Khi object bị hủy",
+      "Khi gọi constructor",
+      "Khi overload operator"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-005",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "exception",
+    "question": "[exception] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-006",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "templates",
+    "question": "[templates] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-007",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-008",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-009",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Abstract class thường dùng để?",
+    "options": [
+      "Tạo đối tượng trực tiếp",
+      "Định nghĩa khung cho lớp con",
+      "Lưu dữ liệu tĩnh",
+      "Chạy nhanh hơn interface"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-010",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-011",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Destructor được gọi khi nào?",
+    "options": [
+      "Khi tạo object",
+      "Khi object bị hủy",
+      "Khi gọi constructor",
+      "Khi overload operator"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-012",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "inheritance",
+    "question": "[inheritance] Overloading là gì?",
+    "options": [
+      "Ghi đè method",
+      "Nạp chồng hàm/toán tử cùng tên khác tham số",
+      "Ẩn thông tin",
+      "Ép kiểu tự động"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-013",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Abstract class thường dùng để?",
+    "options": [
+      "Tạo đối tượng trực tiếp",
+      "Định nghĩa khung cho lớp con",
+      "Lưu dữ liệu tĩnh",
+      "Chạy nhanh hơn interface"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-014",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-015",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-016",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "abstraction",
+    "question": "[abstraction] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-017",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-018",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-019",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Upcasting là gì?",
+    "options": [
+      "Ép kiểu xuống lớp con",
+      "Ép kiểu lên lớp cha",
+      "Chuyển int sang float",
+      "Chuyển string sang int"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-020",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-021",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Overloading là gì?",
+    "options": [
+      "Ghi đè method",
+      "Nạp chồng hàm/toán tử cùng tên khác tham số",
+      "Ẩn thông tin",
+      "Ép kiểu tự động"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-022",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "class-object",
+    "question": "[class-object] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-023",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Abstract class thường dùng để?",
+    "options": [
+      "Tạo đối tượng trực tiếp",
+      "Định nghĩa khung cho lớp con",
+      "Lưu dữ liệu tĩnh",
+      "Chạy nhanh hơn interface"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-024",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Tính đóng gói trong OOP là gì?",
+    "options": [
+      "Ẩn dữ liệu và chỉ cho phép truy cập qua phương thức",
+      "Kế thừa từ lớp cha",
+      "Ghi đè phương thức",
+      "Tạo nhiều constructor"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "oop-final-mcq-025",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Downcasting có rủi ro gì?",
+    "options": [
+      "Không chạy được",
+      "Có thể sai kiểu runtime nếu object không đúng lớp",
+      "Luôn an toàn",
+      "Không bao giờ cần"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-026",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "encapsulation",
+    "question": "[encapsulation] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-027",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "templates",
+    "question": "[templates] Constructor có đặc điểm gì?",
+    "options": [
+      "Có kiểu trả về",
+      "Tên giống class",
+      "Luôn là static",
+      "Không thể overload"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-028",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-029",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "inheritance",
+    "question": "[inheritance] Overloading là gì?",
+    "options": [
+      "Ghi đè method",
+      "Nạp chồng hàm/toán tử cùng tên khác tham số",
+      "Ẩn thông tin",
+      "Ép kiểu tự động"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-mcq-030",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "mcq",
+    "topic": "solid",
+    "question": "[solid] Virtual function dùng để làm gì?",
+    "options": [
+      "Tăng tốc độ",
+      "Hỗ trợ đa hình",
+      "Tạo biến tĩnh",
+      "Giảm bộ nhớ"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "oop-final-essay-001",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "abstraction",
+    "question": "[abstraction] Giải thích nguyên lý SOLID (chọn 2-3 nguyên lý) và ví dụ.",
+    "rubric": [
+      "SRP",
+      "OCP",
+      "LSP",
+      "ISP",
+      "DIP"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-002",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "exception",
+    "question": "[exception] So sánh abstract class và interface.",
+    "rubric": [
+      "SRP",
+      "OCP",
+      "LSP",
+      "ISP",
+      "DIP"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-003",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Giải thích đa hình động (runtime polymorphism) và ví dụ.",
+    "rubric": [
+      "IS-A (inheritance)",
+      "HAS-A (composition)",
+      "Ưu/nhược"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-004",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Mô tả quan hệ HAS-A và IS-A, khi nào dùng composition vs inheritance.",
+    "rubric": [
+      "SRP",
+      "OCP",
+      "LSP",
+      "ISP",
+      "DIP"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-005",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "templates",
+    "question": "[templates] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-006",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "Virtual/override",
+      "Con trỏ/tham chiếu lớp cha",
+      "Dispatch runtime"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-007",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "class-object",
+    "question": "[class-object] Giải thích nguyên lý SOLID (chọn 2-3 nguyên lý) và ví dụ.",
+    "rubric": [
+      "SRP",
+      "OCP",
+      "LSP",
+      "ISP",
+      "DIP"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-008",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Giải thích nguyên lý SOLID (chọn 2-3 nguyên lý) và ví dụ.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-009",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "class-object",
+    "question": "[class-object] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "Đóng gói",
+      "Kế thừa",
+      "Đa hình",
+      "Trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-010",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "Đóng gói",
+      "Kế thừa",
+      "Đa hình",
+      "Trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-011",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "operator-overload",
+    "question": "[operator-overload] Trình bày 4 tính chất của OOP và ví dụ minh họa.",
+    "rubric": [
+      "SRP",
+      "OCP",
+      "LSP",
+      "ISP",
+      "DIP"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-012",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Giải thích đa hình động (runtime polymorphism) và ví dụ.",
+    "rubric": [
+      "IS-A (inheritance)",
+      "HAS-A (composition)",
+      "Ưu/nhược"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-essay-013",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "essay",
+    "topic": "polymorphism",
+    "question": "[polymorphism] Giải thích nguyên lý SOLID (chọn 2-3 nguyên lý) và ví dụ.",
+    "rubric": [
+      "Khả năng cài đặt method",
+      "Multiple inheritance",
+      "Tính trừu tượng"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "oop-final-coding-001",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "templates",
+    "title": "[templates] Operator Overload +",
+    "description": "Định nghĩa struct Fraction (a/b). Viết nạp chồng toán tử + để cộng hai phân số và rút gọn.",
+    "samples": [
+      {
+        "input": "1 2\n1 3\n",
+        "output": "5/6\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Operator Overload +\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Operator Overload +\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Operator Overload +\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-002",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "templates",
+    "title": "[templates] Encapsulation BankAccount",
+    "description": "Viết lớp BankAccount với balance private. Có deposit, withdraw (không cho âm). In ra balance cuối.",
+    "samples": [
+      {
+        "input": "3\ndeposit 100\nwithdraw 30\nwithdraw 1000\n",
+        "output": "70\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Encapsulation BankAccount\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Encapsulation BankAccount\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Encapsulation BankAccount\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-003",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "polymorphism",
+    "title": "[polymorphism] Class Student - Manage GPA",
+    "description": "Viết lớp Student gồm: id, name, gpa. Nhập N sinh viên, in ra sinh viên có GPA cao nhất. Nếu hòa, chọn id nhỏ hơn.",
+    "samples": [
+      {
+        "input": "3\n1 An 3.2\n2 Binh 3.6\n3 Chi 3.6\n",
+        "output": "2 Binh 3.6\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Class Student - Manage GPA\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Class Student - Manage GPA\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Class Student - Manage GPA\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-004",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "encapsulation",
+    "title": "[encapsulation] Encapsulation BankAccount",
+    "description": "Viết lớp BankAccount với balance private. Có deposit, withdraw (không cho âm). In ra balance cuối.",
+    "samples": [
+      {
+        "input": "3\ndeposit 100\nwithdraw 30\nwithdraw 1000\n",
+        "output": "70\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Encapsulation BankAccount\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Encapsulation BankAccount\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Encapsulation BankAccount\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-005",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "operator-overload",
+    "title": "[operator-overload] Encapsulation BankAccount",
+    "description": "Viết lớp BankAccount với balance private. Có deposit, withdraw (không cho âm). In ra balance cuối.",
+    "samples": [
+      {
+        "input": "3\ndeposit 100\nwithdraw 30\nwithdraw 1000\n",
+        "output": "70\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Encapsulation BankAccount\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Encapsulation BankAccount\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Encapsulation BankAccount\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-006",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "exception",
+    "title": "[exception] Encapsulation BankAccount",
+    "description": "Viết lớp BankAccount với balance private. Có deposit, withdraw (không cho âm). In ra balance cuối.",
+    "samples": [
+      {
+        "input": "3\ndeposit 100\nwithdraw 30\nwithdraw 1000\n",
+        "output": "70\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Encapsulation BankAccount\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Encapsulation BankAccount\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Encapsulation BankAccount\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-007",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "class-object",
+    "title": "[class-object] Class Student - Manage GPA",
+    "description": "Viết lớp Student gồm: id, name, gpa. Nhập N sinh viên, in ra sinh viên có GPA cao nhất. Nếu hòa, chọn id nhỏ hơn.",
+    "samples": [
+      {
+        "input": "3\n1 An 3.2\n2 Binh 3.6\n3 Chi 3.6\n",
+        "output": "2 Binh 3.6\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Class Student - Manage GPA\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Class Student - Manage GPA\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Class Student - Manage GPA\n    }\n}\n"
+    }
+  },
+  {
+    "id": "oop-final-coding-008",
+    "subject": "oop",
+    "timing": "final",
+    "examId": "oop_final_2024",
+    "type": "coding",
+    "topic": "class-object",
+    "title": "[class-object] Encapsulation BankAccount",
+    "description": "Viết lớp BankAccount với balance private. Có deposit, withdraw (không cho âm). In ra balance cuối.",
+    "samples": [
+      {
+        "input": "3\ndeposit 100\nwithdraw 30\nwithdraw 1000\n",
+        "output": "70\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Encapsulation BankAccount\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Encapsulation BankAccount\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Encapsulation BankAccount\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-mcq-001",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-002",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-003",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-004",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-005",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-006",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-007",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-008",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-009",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-010",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-011",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-012",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-013",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-014",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-015",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-016",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-017",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-018",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-019",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-020",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-021",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-022",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-023",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-024",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-025",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-026",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-027",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-028",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-029",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-030",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-031",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-032",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-033",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-034",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-035",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-036",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-037",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-038",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-039",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-040",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-041",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-042",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-043",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-044",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-045",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-046",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-047",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-048",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-049",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-050",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-051",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-052",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-053",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-054",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-055",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-056",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-057",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-058",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-midterm-mcq-059",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-mcq-060",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-midterm-essay-001",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "strings",
+    "question": "[strings] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Khai báo",
+      "Chỉ số",
+      "Duyệt hàng/cột"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-002",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "arrays",
+    "question": "[arrays] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-003",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "strings",
+    "question": "[strings] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-004",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "strings",
+    "question": "[strings] Giải thích sự khác nhau giữa biến toàn cục và biến cục bộ, ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-005",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-006",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-007",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "strings",
+    "question": "[strings] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-008",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Khai báo",
+      "Chỉ số",
+      "Duyệt hàng/cột"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-009",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Giải thích sự khác nhau giữa biến toàn cục và biến cục bộ, ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-010",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-011",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "functions",
+    "question": "[functions] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Khai báo",
+      "Chỉ số",
+      "Duyệt hàng/cột"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-012",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-013",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-014",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-015",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "arrays",
+    "question": "[arrays] Giải thích sự khác nhau giữa biến toàn cục và biến cục bộ, ví dụ.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-016",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Khai báo",
+      "Chỉ số",
+      "Duyệt hàng/cột"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-017",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-018",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-019",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-020",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "arrays",
+    "question": "[arrays] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-021",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "if-else",
+    "question": "[if-else] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-022",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "pointers",
+    "question": "[pointers] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-023",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "pointers",
+    "question": "[pointers] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-024",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "arrays",
+    "question": "[arrays] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-essay-025",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "essay",
+    "topic": "arrays",
+    "question": "[arrays] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-midterm-coding-001",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "strings",
+    "title": "[strings] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-002",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "strings",
+    "title": "[strings] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-003",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "sorting-searching",
+    "title": "[sorting-searching] Two Sum",
+    "description": "Cho mảng nums và target. Trả về 2 chỉ số i,j sao cho nums[i]+nums[j]=target (i<j).",
+    "samples": [
+      {
+        "input": "4\n2 7 11 15\n9\n",
+        "output": "0 1\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Two Sum\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Two Sum\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Two Sum\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-004",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "sorting-searching",
+    "title": "[sorting-searching] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-005",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "variables",
+    "title": "[variables] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-006",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "strings",
+    "title": "[strings] Reverse String",
+    "description": "Cho chuỗi s. In ra chuỗi đảo ngược.",
+    "samples": [
+      {
+        "input": "hello\n",
+        "output": "olleh\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Reverse String\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Reverse String\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Reverse String\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-007",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-008",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "variables",
+    "title": "[variables] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-009",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Two Sum",
+    "description": "Cho mảng nums và target. Trả về 2 chỉ số i,j sao cho nums[i]+nums[j]=target (i<j).",
+    "samples": [
+      {
+        "input": "4\n2 7 11 15\n9\n",
+        "output": "0 1\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Two Sum\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Two Sum\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Two Sum\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-010",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "functions",
+    "title": "[functions] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-011",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "recursion",
+    "title": "[recursion] Valid Parentheses",
+    "description": "Cho chuỗi ngoặc (),[],{}. Kiểm tra hợp lệ.",
+    "samples": [
+      {
+        "input": "()[]{}\n",
+        "output": "true\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Valid Parentheses\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Valid Parentheses\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Valid Parentheses\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-012",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "sorting-searching",
+    "title": "[sorting-searching] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-013",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "recursion",
+    "title": "[recursion] Valid Parentheses",
+    "description": "Cho chuỗi ngoặc (),[],{}. Kiểm tra hợp lệ.",
+    "samples": [
+      {
+        "input": "()[]{}\n",
+        "output": "true\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Valid Parentheses\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Valid Parentheses\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Valid Parentheses\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-014",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "arrays",
+    "title": "[arrays] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-midterm-coding-015",
+    "subject": "nmlt",
+    "timing": "midterm",
+    "examId": "nmlt_mid_2024",
+    "type": "coding",
+    "topic": "variables",
+    "title": "[variables] Two Sum",
+    "description": "Cho mảng nums và target. Trả về 2 chỉ số i,j sao cho nums[i]+nums[j]=target (i<j).",
+    "samples": [
+      {
+        "input": "4\n2 7 11 15\n9\n",
+        "output": "0 1\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Two Sum\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Two Sum\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Two Sum\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-mcq-001",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-002",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-003",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-004",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-005",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-006",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-007",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-008",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-009",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-010",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-011",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-012",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-013",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-014",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-015",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-016",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-017",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-018",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-019",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-020",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-021",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-022",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-023",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-024",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-025",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-026",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-027",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-028",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-029",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-030",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-031",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-032",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-033",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-034",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-035",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-036",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "variables",
+    "question": "[variables] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-037",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-038",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-039",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Biến cục bộ (local variable) có phạm vi?",
+    "options": [
+      "Toàn chương trình",
+      "Trong hàm/khối lệnh chứa nó",
+      "Trong file",
+      "Trong thư viện"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-040",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-041",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-042",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-043",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-044",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "complexity",
+    "question": "[complexity] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-045",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] String trong C/C++ là?",
+    "options": [
+      "Kiểu số",
+      "Mảng ký tự kết thúc bằng '\\0' (C) / std::string (C++)",
+      "Luôn là int",
+      "Không thể nối"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-046",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Ép kiểu (casting) là?",
+    "options": [
+      "Đổi tên biến",
+      "Chuyển kiểu dữ liệu",
+      "Xóa biến",
+      "Tạo mảng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-047",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-048",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-049",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-050",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-051",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Câu lệnh break dùng để?",
+    "options": [
+      "Bỏ qua 1 vòng lặp",
+      "Thoát khỏi vòng lặp",
+      "Tiếp tục vòng lặp",
+      "Dừng chương trình ngay"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-052",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Đệ quy là gì?",
+    "options": [
+      "Hàm gọi chính nó",
+      "Hàm không có return",
+      "Hàm chỉ chạy 1 lần",
+      "Hàm chỉ dùng for"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": "nmlt-final-mcq-053",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "pointers",
+    "question": "[pointers] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-054",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-055",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "strings",
+    "question": "[strings] Toán tử && nghĩa là?",
+    "options": [
+      "Hoặc",
+      "Và",
+      "Phủ định",
+      "Gán"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-056",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "functions",
+    "question": "[functions] Câu lệnh continue dùng để?",
+    "options": [
+      "Thoát vòng lặp",
+      "Bỏ qua phần còn lại và sang lần lặp tiếp theo",
+      "Thoát hàm",
+      "In ra màn hình"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-057",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "if-else",
+    "question": "[if-else] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-058",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "loops",
+    "question": "[loops] Hàm (function) dùng để?",
+    "options": [
+      "Tăng lỗi",
+      "Tái sử dụng và tổ chức code",
+      "Chỉ để in ra",
+      "Không có tham số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-059",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "recursion",
+    "question": "[recursion] Mảng (array) có đặc điểm gì?",
+    "options": [
+      "Kích thước thay đổi tự do",
+      "Các phần tử cùng kiểu và liên tiếp trong bộ nhớ",
+      "Chỉ lưu string",
+      "Không truy cập theo chỉ số"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-mcq-060",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "mcq",
+    "topic": "arrays",
+    "question": "[arrays] Vòng lặp for thường dùng khi?",
+    "options": [
+      "Không biết số lần lặp",
+      "Biết trước số lần lặp",
+      "Chỉ lặp vô hạn",
+      "Không bao giờ dùng"
+    ],
+    "answer": "b"
+  },
+  {
+    "id": "nmlt-final-essay-001",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-002",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-003",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-004",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-005",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "complexity",
+    "question": "[complexity] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-006",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-007",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Khai báo",
+      "Chỉ số",
+      "Duyệt hàng/cột"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-008",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-009",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "pointers",
+    "question": "[pointers] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-010",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-011",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-012",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-013",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "complexity",
+    "question": "[complexity] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-014",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "recursion",
+    "question": "[recursion] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Khai báo",
+      "Chỉ số",
+      "Duyệt hàng/cột"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-015",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Giải thích sự khác nhau giữa biến toàn cục và biến cục bộ, ví dụ.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-016",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "loops",
+    "question": "[loops] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-017",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-018",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "functions",
+    "question": "[functions] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-019",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "functions",
+    "question": "[functions] Trình bày ý tưởng và ví dụ về đệ quy, nêu điều kiện dừng.",
+    "rubric": [
+      "Giá trị",
+      "Tham chiếu",
+      "Ảnh hưởng lên biến gốc"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-020",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "strings",
+    "question": "[strings] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-021",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "if-else",
+    "question": "[if-else] So sánh pass-by-value và pass-by-reference (C++), ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-022",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "sorting-searching",
+    "question": "[sorting-searching] Giải thích sự khác nhau giữa biến toàn cục và biến cục bộ, ví dụ.",
+    "rubric": [
+      "Gọi lại",
+      "Điều kiện dừng",
+      "Tránh tràn stack"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-023",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "arrays",
+    "question": "[arrays] Giải thích sự khác nhau giữa biến toàn cục và biến cục bộ, ví dụ.",
+    "rubric": [
+      "Phạm vi",
+      "Vòng đời",
+      "Ví dụ"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-024",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Mô tả cách hoạt động của vòng lặp lồng nhau và độ phức tạp cơ bản.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-essay-025",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "essay",
+    "topic": "variables",
+    "question": "[variables] Giải thích mảng 1 chiều và 2 chiều, cách duyệt và ứng dụng.",
+    "rubric": [
+      "Vòng lặp ngoài/trong",
+      "Số lần lặp",
+      "Big-O"
+    ],
+    "maxScore": 10
+  },
+  {
+    "id": "nmlt-final-coding-001",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "arrays",
+    "title": "[arrays] Reverse String",
+    "description": "Cho chuỗi s. In ra chuỗi đảo ngược.",
+    "samples": [
+      {
+        "input": "hello\n",
+        "output": "olleh\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Reverse String\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Reverse String\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Reverse String\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-002",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "pointers",
+    "title": "[pointers] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-003",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Reverse String",
+    "description": "Cho chuỗi s. In ra chuỗi đảo ngược.",
+    "samples": [
+      {
+        "input": "hello\n",
+        "output": "olleh\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Reverse String\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Reverse String\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Reverse String\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-004",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "pointers",
+    "title": "[pointers] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-005",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "functions",
+    "title": "[functions] Reverse String",
+    "description": "Cho chuỗi s. In ra chuỗi đảo ngược.",
+    "samples": [
+      {
+        "input": "hello\n",
+        "output": "olleh\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Reverse String\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Reverse String\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Reverse String\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-006",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Valid Parentheses",
+    "description": "Cho chuỗi ngoặc (),[],{}. Kiểm tra hợp lệ.",
+    "samples": [
+      {
+        "input": "()[]{}\n",
+        "output": "true\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Valid Parentheses\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Valid Parentheses\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Valid Parentheses\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-007",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "if-else",
+    "title": "[if-else] Reverse String",
+    "description": "Cho chuỗi s. In ra chuỗi đảo ngược.",
+    "samples": [
+      {
+        "input": "hello\n",
+        "output": "olleh\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Reverse String\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Reverse String\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Reverse String\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-008",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "strings",
+    "title": "[strings] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-009",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-010",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "strings",
+    "title": "[strings] Valid Parentheses",
+    "description": "Cho chuỗi ngoặc (),[],{}. Kiểm tra hợp lệ.",
+    "samples": [
+      {
+        "input": "()[]{}\n",
+        "output": "true\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Valid Parentheses\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Valid Parentheses\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Valid Parentheses\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-011",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "recursion",
+    "title": "[recursion] Two Sum",
+    "description": "Cho mảng nums và target. Trả về 2 chỉ số i,j sao cho nums[i]+nums[j]=target (i<j).",
+    "samples": [
+      {
+        "input": "4\n2 7 11 15\n9\n",
+        "output": "0 1\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Two Sum\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Two Sum\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Two Sum\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-012",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "arrays",
+    "title": "[arrays] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-013",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Reverse String",
+    "description": "Cho chuỗi s. In ra chuỗi đảo ngược.",
+    "samples": [
+      {
+        "input": "hello\n",
+        "output": "olleh\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Reverse String\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Reverse String\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Reverse String\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-014",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "if-else",
+    "title": "[if-else] Count Primes",
+    "description": "Cho n. Đếm số nguyên tố <= n.",
+    "samples": [
+      {
+        "input": "10\n",
+        "output": "4\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Count Primes\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Count Primes\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Count Primes\n    }\n}\n"
+    }
+  },
+  {
+    "id": "nmlt-final-coding-015",
+    "subject": "nmlt",
+    "timing": "final",
+    "examId": "nmlt_final_2024",
+    "type": "coding",
+    "topic": "complexity",
+    "title": "[complexity] Sum of Digits",
+    "description": "Cho số nguyên không âm n. Tính tổng chữ số của n.",
+    "samples": [
+      {
+        "input": "12345\n",
+        "output": "15\n"
+      }
+    ],
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main() {\n    ios::sync_with_stdio(false);\n    cin.tie(nullptr);\n\n    // TODO: Viết lời giải cho: Sum of Digits\n    return 0;\n}\n",
+      "python": "# TODO: Viết lời giải cho: Sum of Digits\n\ndef solve():\n    pass\n\nif __name__ == \"__main__\":\n    solve()\n",
+      "java": "import java.io.*;\nimport java.util.*;\n\npublic class Main {\n    public static void main(String[] args) throws Exception {\n        // TODO: Viết lời giải cho: Sum of Digits\n    }\n}\n"
+    }
+  }
+]

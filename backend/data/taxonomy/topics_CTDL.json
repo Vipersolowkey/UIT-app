@@ -1,0 +1,15 @@
+{
+  "subject": "CTDL",
+  "topics": [
+    { "id": "arrays", "name": "Mảng", "keywords": ["mảng", "array", "index", "truy cập phần tử"] },
+    { "id": "linked_list", "name": "Danh sách liên kết", "keywords": ["linked list", "dslk", "con trỏ", "node", "liên kết"] },
+    { "id": "stack_queue", "name": "Stack & Queue", "keywords": ["stack", "ngăn xếp", "queue", "hàng đợi", "push", "pop", "enqueue", "dequeue"] },
+    { "id": "tree", "name": "Cây", "keywords": ["cây", "nhị phân", "binary tree", "bst", "traversal", "duyệt cây", "inorder", "preorder", "postorder"] },
+    { "id": "heap", "name": "Heap", "keywords": ["heap", "đống", "priority queue", "min-heap", "max-heap"] },
+    { "id": "hash", "name": "Hash", "keywords": ["hash", "băm", "hash table", "bucket", "collision", "băm"] },
+    { "id": "graph", "name": "Đồ thị", "keywords": ["đồ thị", "graph", "bfs", "dfs", "dijkstra", "đỉnh", "cạnh", "adjacency"] },
+    { "id": "sorting", "name": "Sắp xếp", "keywords": ["sắp xếp", "sort", "quick sort", "merge sort", "heap sort", "bubble sort", "insertion sort", "selection sort"] },
+    { "id": "searching", "name": "Tìm kiếm", "keywords": ["tìm kiếm", "search", "binary search", "tuyến tính", "linear search"] },
+    { "id": "complexity", "name": "Độ phức tạp", "keywords": ["độ phức tạp", "big o", "o(", "omega", "theta", "phân tích thuật toán"] }
+  ]
+}

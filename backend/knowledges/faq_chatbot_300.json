@@ -1,0 +1,230 @@
+[
+{
+"question": "Lập trình là gì?",
+"answer": "Lập trình là quá trình viết các chỉ dẫn để máy tính thực hiện một nhiệm vụ hoặc giải quyết một bài toán."
+},
+{
+"question": "Biến trong lập trình là gì?",
+"answer": "Biến là vùng nhớ dùng để lưu trữ dữ liệu trong chương trình."
+},
+{
+"question": "Kiểu dữ liệu là gì?",
+"answer": "Kiểu dữ liệu xác định loại giá trị mà một biến có thể lưu trữ."
+},
+{
+"question": "Ví dụ về kiểu dữ liệu trong C?",
+"answer": "Một số kiểu dữ liệu phổ biến trong C gồm int, float, double và char."
+},
+{
+"question": "Toán tử là gì?",
+"answer": "Toán tử là ký hiệu dùng để thực hiện các phép toán trên dữ liệu."
+},
+{
+"question": "Toán tử số học gồm những gì?",
+"answer": "Các toán tử số học gồm cộng, trừ, nhân, chia và chia dư."
+},
+{
+"question": "Toán tử so sánh dùng để làm gì?",
+"answer": "Toán tử so sánh dùng để so sánh hai giá trị và trả về kết quả đúng hoặc sai."
+},
+{
+"question": "Cấu trúc điều kiện là gì?",
+"answer": "Cấu trúc điều kiện cho phép chương trình đưa ra quyết định dựa trên điều kiện."
+},
+{
+"question": "Câu lệnh if dùng để làm gì?",
+"answer": "Câu lệnh if được dùng để thực thi một đoạn code nếu điều kiện đúng."
+},
+{
+"question": "Switch case là gì?",
+"answer": "Switch case là cấu trúc điều kiện cho phép chọn một trong nhiều nhánh thực thi."
+},
+{
+"question": "Vòng lặp là gì?",
+"answer": "Vòng lặp cho phép lặp lại một đoạn code nhiều lần."
+},
+{
+"question": "For loop là gì?",
+"answer": "For loop là vòng lặp dùng khi số lần lặp đã được xác định."
+},
+{
+"question": "While loop là gì?",
+"answer": "While loop lặp lại code khi điều kiện vẫn còn đúng."
+},
+{
+"question": "Do while loop là gì?",
+"answer": "Do while loop thực hiện đoạn code ít nhất một lần trước khi kiểm tra điều kiện."
+},
+{
+"question": "Mảng là gì?",
+"answer": "Mảng là cấu trúc dữ liệu lưu trữ nhiều phần tử cùng kiểu."
+},
+{
+"question": "Index trong mảng là gì?",
+"answer": "Index là vị trí của phần tử trong mảng."
+},
+{
+"question": "Hàm trong lập trình là gì?",
+"answer": "Hàm là khối lệnh thực hiện một nhiệm vụ cụ thể và có thể được gọi nhiều lần."
+},
+{
+"question": "Tham số trong hàm là gì?",
+"answer": "Tham số là biến dùng để truyền dữ liệu vào hàm."
+},
+{
+"question": "Giá trị trả về của hàm là gì?",
+"answer": "Giá trị trả về là kết quả mà hàm gửi lại cho chương trình."
+},
+{
+"question": "Đệ quy là gì?",
+"answer": "Đệ quy là khi một hàm gọi lại chính nó để giải quyết bài toán."
+},
+{
+"question": "Con trỏ là gì?",
+"answer": "Con trỏ là biến lưu địa chỉ bộ nhớ của một biến khác."
+},
+{
+"question": "Địa chỉ bộ nhớ là gì?",
+"answer": "Địa chỉ bộ nhớ là vị trí của dữ liệu trong RAM."
+},
+{
+"question": "Struct là gì?",
+"answer": "Struct là kiểu dữ liệu cho phép nhóm nhiều biến khác kiểu vào cùng một cấu trúc."
+},
+{
+"question": "File handling là gì?",
+"answer": "File handling là thao tác đọc và ghi dữ liệu vào file."
+},
+{
+"question": "Lập trình hướng đối tượng là gì?",
+"answer": "Lập trình hướng đối tượng là phương pháp lập trình dựa trên đối tượng và class."
+},
+{
+"question": "Class là gì?",
+"answer": "Class là khuôn mẫu để tạo ra các đối tượng."
+},
+{
+"question": "Object là gì?",
+"answer": "Object là thể hiện của một class."
+},
+{
+"question": "Encapsulation là gì?",
+"answer": "Encapsulation là nguyên lý đóng gói dữ liệu và hạn chế truy cập trực tiếp."
+},
+{
+"question": "Inheritance là gì?",
+"answer": "Inheritance là cơ chế cho phép lớp con kế thừa thuộc tính và phương thức từ lớp cha."
+},
+{
+"question": "Polymorphism là gì?",
+"answer": "Polymorphism cho phép một phương thức có nhiều cách thực hiện khác nhau."
+},
+{
+"question": "Abstraction là gì?",
+"answer": "Abstraction là nguyên lý ẩn chi tiết cài đặt và chỉ hiển thị chức năng cần thiết."
+},
+{
+"question": "Constructor là gì?",
+"answer": "Constructor là hàm đặc biệt được gọi khi tạo đối tượng."
+},
+{
+"question": "Destructor là gì?",
+"answer": "Destructor là hàm được gọi khi đối tượng bị hủy."
+},
+{
+"question": "Method là gì?",
+"answer": "Method là hàm được định nghĩa bên trong class."
+},
+{
+"question": "Overloading là gì?",
+"answer": "Overloading là khi nhiều hàm có cùng tên nhưng khác tham số."
+},
+{
+"question": "Overriding là gì?",
+"answer": "Overriding là khi lớp con định nghĩa lại phương thức của lớp cha."
+},
+{
+"question": "Thuật toán là gì?",
+"answer": "Thuật toán là tập hợp các bước để giải quyết một bài toán."
+},
+{
+"question": "Độ phức tạp thuật toán là gì?",
+"answer": "Độ phức tạp thuật toán đo lường mức độ tốn tài nguyên của thuật toán."
+},
+{
+"question": "Big O là gì?",
+"answer": "Big O là ký hiệu dùng để biểu diễn độ phức tạp thuật toán."
+},
+{
+"question": "Linear search là gì?",
+"answer": "Linear search là thuật toán tìm kiếm từng phần tử trong danh sách."
+},
+{
+"question": "Binary search là gì?",
+"answer": "Binary search là thuật toán tìm kiếm trên mảng đã sắp xếp."
+},
+{
+"question": "Bubble sort là gì?",
+"answer": "Bubble sort là thuật toán sắp xếp bằng cách hoán đổi các phần tử liền kề."
+},
+{
+"question": "Selection sort là gì?",
+"answer": "Selection sort là thuật toán chọn phần tử nhỏ nhất và đưa về đầu mảng."
+},
+{
+"question": "Insertion sort là gì?",
+"answer": "Insertion sort là thuật toán chèn phần tử vào vị trí đúng."
+},
+{
+"question": "Quick sort là gì?",
+"answer": "Quick sort là thuật toán sắp xếp dựa trên kỹ thuật chia để trị."
+},
+{
+"question": "Merge sort là gì?",
+"answer": "Merge sort là thuật toán chia mảng thành nhiều phần và trộn lại."
+},
+{
+"question": "Debug là gì?",
+"answer": "Debug là quá trình tìm và sửa lỗi trong chương trình."
+},
+{
+"question": "Compile là gì?",
+"answer": "Compile là quá trình chuyển mã nguồn thành mã máy."
+},
+{
+"question": "IDE là gì?",
+"answer": "IDE là môi trường phát triển tích hợp để viết và chạy chương trình."
+},
+{
+"question": "Stack là gì?",
+"answer": "Stack là cấu trúc dữ liệu hoạt động theo nguyên tắc LIFO."
+},
+{
+"question": "Queue là gì?",
+"answer": "Queue là cấu trúc dữ liệu hoạt động theo nguyên tắc FIFO."
+},
+{
+"question": "Linked list là gì?",
+"answer": "Linked list là danh sách liên kết gồm các node nối với nhau."
+},
+{
+"question": "Tree là gì?",
+"answer": "Tree là cấu trúc dữ liệu dạng phân cấp."
+},
+{
+"question": "Graph là gì?",
+"answer": "Graph là cấu trúc dữ liệu gồm các đỉnh và cạnh."
+},
+{
+"question": "Sinh viên nên học lập trình như thế nào?",
+"answer": "Sinh viên nên luyện tập code mỗi ngày và hiểu logic của thuật toán."
+},
+{
+"question": "Cách tốt nhất để học lập trình là gì?",
+"answer": "Cách tốt nhất là viết nhiều chương trình và giải nhiều bài tập."
+},
+{
+"question": "Làm sao để chuẩn bị thi lập trình?",
+"answer": "Sinh viên nên ôn lý thuyết, làm bài tập và làm đề thi thử."
+}
+]

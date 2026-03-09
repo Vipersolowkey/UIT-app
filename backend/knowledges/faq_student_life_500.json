@@ -1,0 +1,2554 @@
+[
+  {
+    "question": "Ký túc xá là gì?",
+    "answer": "Ký túc xá là nơi ở dành cho sinh viên do trường hoặc tổ chức quản lý.",
+    "category": "student_life"
+  },
+  {
+    "question": "Sinh viên đăng ký ký túc xá như thế nào?",
+    "answer": "Sinh viên có thể đăng ký ký túc xá thông qua cổng thông tin sinh viên hoặc phòng công tác sinh viên.",
+    "category": "student_life"
+  },
+  {
+    "question": "Chi phí ở ký túc xá khoảng bao nhiêu?",
+    "answer": "Chi phí ở ký túc xá tùy trường nhưng thường rẻ hơn so với thuê trọ bên ngoài.",
+    "category": "student_life"
+  },
+  {
+    "question": "Sinh viên có thể đổi phòng ký túc xá không?",
+    "answer": "Sinh viên có thể xin đổi phòng nếu có lý do chính đáng và được ban quản lý ký túc xá chấp thuận.",
+    "category": "student_life"
+  },
+  {
+    "question": "Có giờ giới nghiêm trong ký túc xá không?",
+    "answer": "Một số ký túc xá có quy định giờ đóng cửa để đảm bảo an ninh.",
+    "category": "student_life"
+  },
+
+  {
+    "question": "Thẻ sinh viên dùng để làm gì?",
+    "answer": "Thẻ sinh viên dùng để xác nhận danh tính, vào thư viện, mượn sách và sử dụng các dịch vụ trong trường.",
+    "category": "campus_services"
+  },
+  {
+    "question": "Nếu mất thẻ sinh viên thì phải làm sao?",
+    "answer": "Sinh viên cần báo với phòng công tác sinh viên để làm lại thẻ.",
+    "category": "campus_services"
+  },
+  {
+    "question": "Sinh viên có thể mượn sách thư viện bao lâu?",
+    "answer": "Thời gian mượn sách tùy quy định của từng thư viện, thường từ 7 đến 30 ngày.",
+    "category": "library"
+  },
+  {
+    "question": "Làm sao để gia hạn sách thư viện?",
+    "answer": "Sinh viên có thể gia hạn sách qua hệ thống thư viện hoặc trực tiếp tại quầy thư viện.",
+    "category": "library"
+  },
+  {
+    "question": "Thư viện mở cửa vào giờ nào?",
+    "answer": "Thư viện thường mở cửa từ sáng đến tối nhưng thời gian cụ thể tùy từng trường.",
+    "category": "library"
+  },
+
+  {
+    "question": "Sinh viên có được sử dụng phòng tự học không?",
+    "answer": "Hầu hết các trường đại học đều có phòng tự học dành cho sinh viên.",
+    "category": "campus_services"
+  },
+  {
+    "question": "Trường có wifi miễn phí không?",
+    "answer": "Phần lớn các trường đại học đều cung cấp wifi miễn phí cho sinh viên.",
+    "category": "campus_services"
+  },
+  {
+    "question": "Làm sao để kết nối wifi của trường?",
+    "answer": "Sinh viên có thể đăng nhập wifi bằng tài khoản sinh viên do trường cấp.",
+    "category": "campus_services"
+  },
+
+  {
+    "question": "Sinh viên có thể tham gia câu lạc bộ không?",
+    "answer": "Sinh viên có thể đăng ký tham gia các câu lạc bộ trong trường.",
+    "category": "activities"
+  },
+  {
+    "question": "Câu lạc bộ sinh viên là gì?",
+    "answer": "Câu lạc bộ sinh viên là tổ chức nơi sinh viên tham gia các hoạt động ngoại khóa theo sở thích.",
+    "category": "activities"
+  },
+  {
+    "question": "Tham gia câu lạc bộ có lợi ích gì?",
+    "answer": "Tham gia câu lạc bộ giúp sinh viên phát triển kỹ năng mềm và mở rộng mối quan hệ.",
+    "category": "activities"
+  },
+  {
+    "question": "Sinh viên năm nhất có nên tham gia câu lạc bộ không?",
+    "answer": "Sinh viên năm nhất nên tham gia câu lạc bộ để hòa nhập môi trường đại học.",
+    "category": "activities"
+  },
+
+  {
+    "question": "Sinh viên có thể làm thêm không?",
+    "answer": "Sinh viên có thể làm thêm nếu đảm bảo việc học không bị ảnh hưởng.",
+    "category": "jobs"
+  },
+  {
+    "question": "Những công việc làm thêm phổ biến cho sinh viên là gì?",
+    "answer": "Các công việc phổ biến gồm phục vụ, bán hàng, gia sư và lập trình freelance.",
+    "category": "jobs"
+  },
+  {
+    "question": "Sinh viên nên làm thêm bao nhiêu giờ mỗi tuần?",
+    "answer": "Sinh viên nên làm thêm dưới 20 giờ mỗi tuần để đảm bảo thời gian học tập.",
+    "category": "jobs"
+  },
+
+  {
+    "question": "Sinh viên có thể thực tập từ năm mấy?",
+    "answer": "Sinh viên thường bắt đầu thực tập từ năm 3 hoặc năm 4.",
+    "category": "career"
+  },
+  {
+    "question": "Thực tập có bắt buộc không?",
+    "answer": "Tùy chương trình đào tạo, nhiều ngành yêu cầu sinh viên phải thực tập.",
+    "category": "career"
+  },
+
+  {
+    "question": "Sinh viên có cần mua laptop không?",
+    "answer": "Laptop rất cần thiết cho việc học tập và làm bài tập của sinh viên.",
+    "category": "technology"
+  },
+  {
+    "question": "Laptop cấu hình thế nào phù hợp cho sinh viên IT?",
+    "answer": "Laptop nên có ít nhất 8GB RAM và ổ SSD để chạy các phần mềm lập trình.",
+    "category": "technology"
+  },
+
+  {
+    "question": "Sinh viên có thể tham gia nghiên cứu khoa học không?",
+    "answer": "Sinh viên có thể tham gia nghiên cứu khoa học dưới sự hướng dẫn của giảng viên.",
+    "category": "research"
+  },
+  {
+    "question": "Nghiên cứu khoa học sinh viên là gì?",
+    "answer": "Đây là hoạt động nghiên cứu do sinh viên thực hiện nhằm phát triển kỹ năng nghiên cứu.",
+    "category": "research"
+  },
+
+  {
+    "question": "Sinh viên có thể tham gia hackathon không?",
+    "answer": "Sinh viên có thể tham gia các cuộc thi hackathon để phát triển kỹ năng lập trình.",
+    "category": "competitions"
+  },
+  {
+    "question": "Hackathon là gì?",
+    "answer": "Hackathon là cuộc thi lập trình nơi các đội phát triển sản phẩm trong thời gian ngắn.",
+    "category": "competitions"
+  },
+
+  {
+    "question": "Sinh viên có nên tham gia hoạt động tình nguyện không?",
+    "answer": "Hoạt động tình nguyện giúp sinh viên phát triển kỹ năng và đóng góp cho cộng đồng.",
+    "category": "activities"
+  },
+
+  {
+    "question": "Sinh viên nên ngủ bao nhiêu giờ mỗi ngày?",
+    "answer": "Sinh viên nên ngủ khoảng 7 đến 8 giờ mỗi ngày để đảm bảo sức khỏe.",
+    "category": "health"
+  },
+  {
+    "question": "Sinh viên có nên tập thể dục không?",
+    "answer": "Tập thể dục giúp cải thiện sức khỏe và giảm căng thẳng.",
+    "category": "health"
+  },
+
+  {
+    "question": "Sinh viên nên quản lý thời gian như thế nào?",
+    "answer": "Sinh viên nên lập kế hoạch học tập và sắp xếp thời gian hợp lý.",
+    "category": "skills"
+  },
+  {
+    "question": "Kỹ năng mềm là gì?",
+    "answer": "Kỹ năng mềm là các kỹ năng như giao tiếp, làm việc nhóm và quản lý thời gian.",
+    "category": "skills"
+  },
+  {
+    "question": "Sinh viên có nên học kỹ năng mềm không?",
+    "answer": "Kỹ năng mềm giúp sinh viên làm việc hiệu quả hơn trong môi trường học tập và công việc.",
+    "category": "skills"
+  },
+
+  {
+    "question": "CV là gì?",
+    "answer": "CV là bản tóm tắt thông tin cá nhân, học tập và kinh nghiệm làm việc.",
+    "category": "career"
+  },
+  {
+    "question": "Sinh viên nên chuẩn bị CV từ khi nào?",
+    "answer": "Sinh viên nên chuẩn bị CV từ năm 3 để sẵn sàng tìm việc.",
+    "category": "career"
+  },
+
+  {
+    "question": "LinkedIn là gì?",
+    "answer": "LinkedIn là mạng xã hội chuyên nghiệp dành cho việc kết nối nghề nghiệp.",
+    "category": "career"
+  },
+  {
+    "question": "Sinh viên có nên sử dụng LinkedIn không?",
+    "answer": "LinkedIn giúp sinh viên xây dựng mạng lưới nghề nghiệp và tìm việc.",
+    "category": "career"
+  },
+
+  {
+    "question": "Sinh viên nên bắt đầu tìm việc từ khi nào?",
+    "answer": "Sinh viên có thể bắt đầu tìm việc từ năm cuối.",
+    "category": "career"
+  },
+
+  {
+    "question": "Startup là gì?",
+    "answer": "Startup là công ty mới thành lập với ý tưởng kinh doanh sáng tạo.",
+    "category": "startup"
+  },
+  {
+    "question": "Sinh viên có thể khởi nghiệp không?",
+    "answer": "Sinh viên hoàn toàn có thể khởi nghiệp nếu có ý tưởng và kế hoạch tốt.",
+    "category": "startup"
+  },
+
+  {
+    "question": "Sinh viên nên quản lý tài chính cá nhân như thế nào?",
+    "answer": "Sinh viên nên lập kế hoạch chi tiêu và tiết kiệm tiền hợp lý.",
+    "category": "finance"
+  },
+
+  {
+    "question": "Sinh viên nên tiết kiệm tiền như thế nào?",
+    "answer": "Sinh viên nên ghi chép chi tiêu hàng tháng và ưu tiên các khoản cần thiết.",
+    "category": "finance"
+  },
+
+  {
+    "question": "Sinh viên có thể tham gia chương trình trao đổi sinh viên không?",
+    "answer": "Một số trường có chương trình trao đổi sinh viên quốc tế cho sinh viên đăng ký.",
+    "category": "international"
+  },
+  {
+    "question": "Trao đổi sinh viên là gì?",
+    "answer": "Đây là chương trình cho phép sinh viên học tại trường đối tác trong thời gian ngắn.",
+    "category": "international"
+  },
+
+  {
+    "question": "Sinh viên có nên học ngoại ngữ không?",
+    "answer": "Học ngoại ngữ giúp sinh viên có nhiều cơ hội nghề nghiệp hơn.",
+    "category": "skills"
+  },
+  {
+    "question": "Sinh viên nên học tiếng Anh như thế nào?",
+    "answer": "Sinh viên nên luyện nghe, nói, đọc và viết mỗi ngày.",
+    "category": "skills"
+  },
+  {
+    "question": "Chứng chỉ tiếng Anh có cần thiết không?",
+    "answer": "Nhiều công ty yêu cầu chứng chỉ tiếng Anh như IELTS hoặc TOEIC.",
+    "category": "career"
+  },
+
+  {
+    "question": "Sinh viên có thể sử dụng phòng gym của trường không?",
+    "answer": "Một số trường có phòng gym hoặc sân thể thao cho sinh viên sử dụng.",
+    "category": "health"
+  },
+  {
+"question":"Sinh viên năm nhất nên chuẩn bị gì khi vào đại học?",
+"answer":"Sinh viên năm nhất nên chuẩn bị laptop, kỹ năng quản lý thời gian, tài khoản email trường và làm quen với hệ thống LMS.",
+"category":"student_life"
+},
+{
+"question":"Sinh viên nên học bao nhiêu giờ mỗi ngày?",
+"answer":"Sinh viên nên dành khoảng 3 đến 5 giờ tự học mỗi ngày ngoài giờ lên lớp.",
+"category":"study"
+},
+{
+"question":"Sinh viên có nên tham gia câu lạc bộ không?",
+"answer":"Tham gia câu lạc bộ giúp sinh viên phát triển kỹ năng mềm và mở rộng mối quan hệ.",
+"category":"activities"
+},
+{
+"question":"Sinh viên nên quản lý thời gian như thế nào?",
+"answer":"Sinh viên nên lập kế hoạch học tập hàng tuần và sử dụng các công cụ như Google Calendar hoặc Notion.",
+"category":"skills"
+},
+{
+"question":"Làm sao để cân bằng giữa học và làm thêm?",
+"answer":"Sinh viên nên chọn công việc làm thêm dưới 20 giờ mỗi tuần để không ảnh hưởng việc học.",
+"category":"jobs"
+},
+{
+"question":"Sinh viên có nên học tiếng Anh không?",
+"answer":"Tiếng Anh rất quan trọng cho việc đọc tài liệu và cơ hội nghề nghiệp sau này.",
+"category":"skills"
+},
+{
+"question":"Sinh viên IT nên học ngôn ngữ lập trình nào đầu tiên?",
+"answer":"Sinh viên IT có thể bắt đầu với Python, C++ hoặc Java.",
+"category":"technology"
+},
+{
+"question":"Laptop cấu hình thế nào phù hợp cho sinh viên IT?",
+"answer":"Laptop nên có ít nhất 8GB RAM, CPU i5 trở lên và SSD.",
+"category":"technology"
+},
+{
+"question":"Sinh viên có nên tham gia hackathon không?",
+"answer":"Hackathon giúp sinh viên luyện kỹ năng lập trình và teamwork.",
+"category":"activities"
+},
+{
+"question":"Sinh viên nên học nhóm hay học một mình?",
+"answer":"Kết hợp cả hai sẽ hiệu quả hơn.",
+"category":"study"
+},
+{
+"question":"Sinh viên nên ngủ bao nhiêu giờ mỗi ngày?",
+"answer":"Sinh viên nên ngủ từ 7 đến 8 giờ mỗi ngày.",
+"category":"health"
+},
+{
+"question":"Sinh viên có nên tập thể dục không?",
+"answer":"Tập thể dục giúp giảm stress và tăng năng lượng học tập.",
+"category":"health"
+},
+{
+"question":"Sinh viên có nên làm thêm không?",
+"answer":"Sinh viên có thể làm thêm nếu đảm bảo việc học.",
+"category":"jobs"
+},
+{
+"question":"Sinh viên nên học kỹ năng mềm nào?",
+"answer":"Kỹ năng giao tiếp, teamwork và quản lý thời gian.",
+"category":"skills"
+},
+{
+"question":"Sinh viên nên sử dụng LinkedIn không?",
+"answer":"LinkedIn giúp xây dựng mạng lưới nghề nghiệp.",
+"category":"career"
+},
+{
+"question":"Sinh viên nên chuẩn bị CV từ khi nào?",
+"answer":"Sinh viên nên chuẩn bị CV từ năm 3.",
+"category":"career"
+},
+{
+"question":"Sinh viên nên tham gia thực tập khi nào?",
+"answer":"Thường từ năm 3 hoặc năm 4.",
+"category":"career"
+},
+{
+"question":"Sinh viên có nên tham gia nghiên cứu khoa học không?",
+"answer":"Nghiên cứu khoa học giúp phát triển tư duy và kỹ năng nghiên cứu.",
+"category":"research"
+},
+{
+"question":"Sinh viên nên học online hay offline?",
+"answer":"Kết hợp cả hai sẽ hiệu quả nhất.",
+"category":"study"
+},
+{
+"question":"Sinh viên nên sử dụng công cụ ghi chú nào?",
+"answer":"Notion, Obsidian hoặc OneNote là các công cụ phổ biến.",
+"category":"tools"
+},
+{
+"question":"Sinh viên nên ghi chú bài học như thế nào?",
+"answer":"Sinh viên có thể ghi chú bằng phương pháp Cornell hoặc sử dụng các ứng dụng như Notion hoặc OneNote.",
+"category":"study"
+},
+{
+"question":"Sinh viên nên học nhóm hay học một mình?",
+"answer":"Kết hợp cả học nhóm và học cá nhân sẽ mang lại hiệu quả tốt nhất.",
+"category":"study"
+},
+{
+"question":"Sinh viên nên sử dụng công cụ quản lý thời gian nào?",
+"answer":"Sinh viên có thể sử dụng Google Calendar, Notion, Trello hoặc Todoist.",
+"category":"tools"
+},
+{
+"question":"Sinh viên có nên tham gia câu lạc bộ không?",
+"answer":"Tham gia câu lạc bộ giúp sinh viên phát triển kỹ năng mềm và mở rộng mối quan hệ.",
+"category":"activities"
+},
+{
+"question":"Sinh viên nên ngủ bao nhiêu giờ mỗi ngày?",
+"answer":"Sinh viên nên ngủ khoảng 7 đến 8 giờ mỗi ngày để đảm bảo sức khỏe.",
+"category":"health"
+},
+{
+"question":"Sinh viên có nên tập thể dục không?",
+"answer":"Tập thể dục giúp giảm stress và cải thiện sức khỏe.",
+"category":"health"
+},
+{
+"question":"Sinh viên có nên làm thêm không?",
+"answer":"Sinh viên có thể làm thêm nếu không ảnh hưởng đến việc học.",
+"category":"jobs"
+},
+{
+"question":"Sinh viên nên làm thêm bao nhiêu giờ mỗi tuần?",
+"answer":"Sinh viên nên làm thêm dưới 20 giờ mỗi tuần.",
+"category":"jobs"
+},
+{
+"question":"Sinh viên IT nên học ngôn ngữ lập trình nào đầu tiên?",
+"answer":"Sinh viên có thể bắt đầu với Python, C++ hoặc Java.",
+"category":"technology"
+},
+{
+"question":"Laptop cấu hình thế nào phù hợp cho sinh viên IT?",
+"answer":"Laptop nên có ít nhất 8GB RAM và ổ SSD.",
+"category":"technology"
+},
+{
+"question":"Sinh viên nên học Git không?",
+"answer":"Git là công cụ quan trọng giúp quản lý code và làm việc nhóm.",
+"category":"technology"
+},
+{
+"question":"Sinh viên có nên sử dụng LinkedIn không?",
+"answer":"LinkedIn giúp sinh viên xây dựng mạng lưới nghề nghiệp.",
+"category":"career"
+},
+{
+"question":"Sinh viên nên chuẩn bị CV từ khi nào?",
+"answer":"Sinh viên nên chuẩn bị CV từ năm 3.",
+"category":"career"
+},
+{
+"question":"Sinh viên nên tìm thực tập khi nào?",
+"answer":"Sinh viên nên tìm thực tập từ năm 3 hoặc năm 4.",
+"category":"career"
+},
+{
+"question":"Sinh viên nên tiết kiệm tiền như thế nào?",
+"answer":"Sinh viên nên lập kế hoạch chi tiêu và tránh mua sắm không cần thiết.",
+"category":"finance"
+},
+{
+"question":"Sinh viên có nên tham gia hackathon không?",
+"answer":"Hackathon giúp sinh viên rèn luyện kỹ năng lập trình và teamwork.",
+"category":"activities"
+},
+{
+"question":"Sinh viên nên học kỹ năng mềm nào?",
+"answer":"Các kỹ năng quan trọng gồm giao tiếp, teamwork và quản lý thời gian.",
+"category":"skills"
+},
+{
+"question":"Sinh viên có nên tham gia nghiên cứu khoa học không?",
+"answer":"Nghiên cứu khoa học giúp sinh viên phát triển tư duy nghiên cứu.",
+"category":"research"
+},
+{
+"question":"UIT thuộc đại học nào?",
+"answer":"UIT thuộc Đại học Quốc gia Thành phố Hồ Chí Minh.",
+"category":"uit_info"
+},
+{
+"question":"UIT đào tạo những ngành nào?",
+"answer":"UIT đào tạo các ngành như Khoa học máy tính, Công nghệ thông tin, Kỹ thuật phần mềm, Hệ thống thông tin và An toàn thông tin.",
+"category":"uit_courses"
+},
+{
+"question":"Sinh viên UIT học ở đâu?",
+"answer":"Sinh viên UIT học tại khu đô thị Đại học Quốc gia TP.HCM ở Thủ Đức.",
+"category":"uit_info"
+},
+{
+"question":"Sinh viên UIT có ký túc xá không?",
+"answer":"Sinh viên UIT có thể đăng ký ký túc xá Đại học Quốc gia.",
+"category":"uit_life"
+},
+{
+"question":"Sinh viên UIT đăng ký môn học ở đâu?",
+"answer":"Sinh viên UIT đăng ký môn học qua hệ thống cổng thông tin sinh viên.",
+"category":"uit_registration"
+},
+{
+"question":"UIT có wifi miễn phí không?",
+"answer":"UIT cung cấp wifi trong khuôn viên trường.",
+"category":"uit_facilities"
+},
+{
+"question":"Sinh viên UIT có thể tham gia câu lạc bộ nào?",
+"answer":"UIT có nhiều câu lạc bộ như AI Club, WebDev Club và GameDev Club.",
+"category":"uit_clubs"
+},
+{
+"question":"UIT có tổ chức hackathon không?",
+"answer":"UIT thường tổ chức các cuộc thi lập trình và hackathon.",
+"category":"uit_events"
+},
+{
+"question":"Sinh viên UIT xem lịch học ở đâu?",
+"answer":"Sinh viên có thể xem lịch học trên hệ thống cổng thông tin sinh viên.",
+"category":"uit_schedule"
+},
+{
+"question":"Sinh viên UIT xem điểm ở đâu?",
+"answer":"Sinh viên xem điểm trên hệ thống đào tạo của trường.",
+"category":"uit_exam"
+},
+{
+"question":"Sinh viên UIT cần bao nhiêu tín chỉ để tốt nghiệp?",
+"answer":"Tùy ngành học nhưng thường khoảng 120 đến 150 tín chỉ.",
+"category":"uit_graduation"
+},
+{
+"question": "Sinh viên nên làm gì trong tuần đầu tiên ở đại học?",
+"answer": "Sinh viên nên làm quen với khuôn viên trường, kiểm tra lịch học, đăng nhập các hệ thống cần thiết và tìm hiểu các quy định cơ bản.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên mang theo gì mỗi ngày khi đến trường?",
+"answer": "Sinh viên nên mang theo thẻ sinh viên, laptop nếu cần, sổ ghi chép, nước uống và các vật dụng học tập cơ bản.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy khó hòa nhập ở môi trường mới?",
+"answer": "Sinh viên nên chủ động bắt chuyện với bạn cùng lớp, tham gia hoạt động tập thể và dành thời gian thích nghi dần với môi trường mới.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên có nên ở trọ gần trường không?",
+"answer": "Ở trọ gần trường giúp tiết kiệm thời gian di chuyển, nhưng sinh viên cũng nên cân nhắc chi phí và mức độ an toàn của khu vực.",
+"category": "housing"
+},
+{
+"question": "Khi thuê trọ, sinh viên nên kiểm tra những gì?",
+"answer": "Sinh viên nên kiểm tra giá thuê, điện nước, an ninh, hợp đồng, khoảng cách đến trường và tình trạng phòng trước khi quyết định.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên ở ghép hay ở một mình?",
+"answer": "Ở ghép giúp tiết kiệm chi phí, còn ở một mình mang lại sự riêng tư; lựa chọn phù hợp phụ thuộc vào tài chính và thói quen sinh hoạt.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên làm gì nếu mâu thuẫn với bạn cùng phòng?",
+"answer": "Sinh viên nên trao đổi thẳng thắn, bình tĩnh và cố gắng thống nhất các nguyên tắc sinh hoạt chung.",
+"category": "housing"
+},
+{
+"question": "Sinh viên có nên nấu ăn để tiết kiệm chi phí không?",
+"answer": "Tự nấu ăn thường giúp tiết kiệm chi phí và đảm bảo vệ sinh hơn so với ăn ngoài thường xuyên.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên chia ngân sách hàng tháng như thế nào?",
+"answer": "Sinh viên nên chia ngân sách cho tiền nhà, ăn uống, đi lại, học tập, phát sinh và một khoản dự phòng nhỏ.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên dùng ứng dụng nào để theo dõi chi tiêu?",
+"answer": "Sinh viên có thể dùng các ứng dụng ghi chép chi tiêu hoặc bảng tính đơn giản để theo dõi thu chi hàng tháng.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên giữ tiền mặt hay dùng ví điện tử?",
+"answer": "Sinh viên nên kết hợp cả hai, dùng ví điện tử để tiện thanh toán và giữ một ít tiền mặt cho các tình huống cần thiết.",
+"category": "finance"
+},
+{
+"question": "Sinh viên có nên mở tài khoản ngân hàng riêng không?",
+"answer": "Mở tài khoản ngân hàng riêng giúp sinh viên nhận tiền, thanh toán online và quản lý tài chính thuận tiện hơn.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên làm gì nếu tiêu quá ngân sách trong tháng?",
+"answer": "Sinh viên nên rà soát lại các khoản chi, cắt giảm chi tiêu không cần thiết và điều chỉnh kế hoạch tài chính cho tháng sau.",
+"category": "finance"
+},
+{
+"question": "Sinh viên có nên mua đồ cũ để tiết kiệm không?",
+"answer": "Mua đồ cũ có thể giúp tiết kiệm đáng kể nếu sản phẩm vẫn còn tốt và phù hợp nhu cầu sử dụng.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên ưu tiên chi tiền cho những khoản nào?",
+"answer": "Sinh viên nên ưu tiên chi cho chỗ ở, ăn uống, học tập, đi lại và sức khỏe trước các khoản giải trí.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên làm gì khi bị mất ví hoặc giấy tờ?",
+"answer": "Sinh viên nên khóa thẻ ngân hàng nếu cần, kiểm tra lại nơi đã đi qua và báo với cơ quan liên quan để làm lại giấy tờ.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên có nên mua bảo hiểm sức khỏe không?",
+"answer": "Bảo hiểm sức khỏe giúp giảm bớt chi phí khám chữa bệnh, vì vậy sinh viên nên tham gia nếu có điều kiện phù hợp.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên xử lý thế nào khi bị áp lực cuộc sống đại học?",
+"answer": "Sinh viên nên nghỉ ngơi hợp lý, chia sẻ với bạn bè hoặc người thân và tìm sự hỗ trợ khi cảm thấy quá tải kéo dài.",
+"category": "mental_health"
+},
+{
+"question": "Làm sao để sinh viên tránh bị kiệt sức vào cuối kỳ?",
+"answer": "Sinh viên nên duy trì nhịp học đều đặn, ngủ đủ giấc, ăn uống lành mạnh và không dồn mọi việc vào sát hạn chót.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên lập kế hoạch tuần không?",
+"answer": "Lập kế hoạch tuần giúp sinh viên quản lý công việc hiệu quả hơn và tránh bỏ sót nhiệm vụ quan trọng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì khi thường xuyên quên deadline?",
+"answer": "Sinh viên nên dùng lịch số, đặt nhắc nhở và chia deadline lớn thành các mốc nhỏ dễ theo dõi hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên bắt đầu xây dựng thói quen tự học từ đâu?",
+"answer": "Sinh viên có thể bắt đầu bằng việc dành một khung giờ cố định mỗi ngày cho việc đọc lại bài và làm bài tập nhỏ.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên ngồi học ở đâu để tập trung hơn?",
+"answer": "Những nơi yên tĩnh như thư viện, phòng tự học hoặc góc học tập gọn gàng thường giúp sinh viên tập trung tốt hơn.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên nghe nhạc khi học không?",
+"answer": "Một số sinh viên tập trung tốt hơn với nhạc nhẹ, nhưng nếu dễ bị phân tâm thì nên học trong không gian yên tĩnh.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên dậy sớm hay thức khuya để học?",
+"answer": "Điều này phụ thuộc vào nhịp sinh học cá nhân, nhưng sinh viên nên ưu tiên lịch sinh hoạt ổn định và ngủ đủ giấc.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy thiếu động lực học tập?",
+"answer": "Sinh viên nên đặt mục tiêu ngắn hạn, chia nhỏ nhiệm vụ và tự thưởng cho bản thân khi hoàn thành từng bước.",
+"category": "mental_health"
+},
+{
+"question": "Làm sao để sinh viên tránh so sánh bản thân với người khác?",
+"answer": "Sinh viên nên tập trung vào tiến bộ của bản thân, đặt mục tiêu phù hợp và tránh đánh giá mình chỉ qua thành tích của người khác.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tham gia workshop không?",
+"answer": "Workshop giúp sinh viên cập nhật kỹ năng, kiến thức và mở rộng mối quan hệ nên rất đáng để tham gia.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên chọn workshop như thế nào?",
+"answer": "Sinh viên nên chọn workshop phù hợp với nhu cầu học tập, kỹ năng còn thiếu hoặc định hướng nghề nghiệp của mình.",
+"category": "activities"
+},
+{
+"question": "Sinh viên có nên đi networking event không?",
+"answer": "Networking event giúp sinh viên gặp gỡ người trong ngành và hiểu hơn về cơ hội nghề nghiệp tương lai.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên giới thiệu bản thân như thế nào trong sự kiện nghề nghiệp?",
+"answer": "Sinh viên nên giới thiệu ngắn gọn về tên, ngành học, mối quan tâm và mục tiêu nghề nghiệp một cách tự tin, rõ ràng.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì sau khi tham gia một sự kiện nghề nghiệp?",
+"answer": "Sinh viên nên lưu lại thông tin liên hệ hữu ích, cập nhật hồ sơ cá nhân và nếu cần thì gửi lời cảm ơn sau sự kiện.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên bắt đầu xây dựng thương hiệu cá nhân từ khi nào?",
+"answer": "Sinh viên có thể bắt đầu xây dựng thương hiệu cá nhân ngay từ đại học thông qua hồ sơ online, dự án và cách giao tiếp chuyên nghiệp.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên đăng dự án cá nhân lên mạng không?",
+"answer": "Đăng dự án cá nhân lên các nền tảng phù hợp giúp sinh viên thể hiện kỹ năng và tạo điểm nhấn cho hồ sơ nghề nghiệp.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên dùng email như thế nào cho chuyên nghiệp?",
+"answer": "Sinh viên nên dùng email nghiêm túc, có tiêu đề rõ ràng, lời chào lịch sự và nội dung ngắn gọn, đúng trọng tâm.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên tạo email riêng cho việc học và việc làm không?",
+"answer": "Tách email học tập và email cá nhân giúp sinh viên quản lý thông tin tốt hơn và chuyên nghiệp hơn khi ứng tuyển.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên lưu tài liệu học tập ở đâu cho an toàn?",
+"answer": "Sinh viên nên lưu trên máy cá nhân và sao lưu thêm trên cloud để tránh mất dữ liệu.",
+"category": "tools"
+},
+{
+"question": "Sinh viên có nên dùng Google Drive hay không?",
+"answer": "Google Drive giúp lưu trữ, chia sẻ và đồng bộ tài liệu tiện lợi nên rất hữu ích cho sinh viên.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên đặt mật khẩu tài khoản như thế nào cho an toàn?",
+"answer": "Sinh viên nên dùng mật khẩu mạnh, khác nhau giữa các tài khoản và bật xác thực hai lớp nếu có thể.",
+"category": "technology"
+},
+{
+"question": "Sinh viên nên làm gì nếu tài khoản cá nhân bị lộ mật khẩu?",
+"answer": "Sinh viên nên đổi mật khẩu ngay, đăng xuất khỏi các thiết bị lạ và kiểm tra các hoạt động bất thường.",
+"category": "technology"
+},
+{
+"question": "Sinh viên có nên học kỹ năng thuyết trình không?",
+"answer": "Kỹ năng thuyết trình rất quan trọng vì giúp sinh viên trình bày ý tưởng rõ ràng và tự tin hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên luyện kỹ năng thuyết trình bằng cách nào?",
+"answer": "Sinh viên có thể luyện bằng cách nói trước gương, quay video, trình bày trong nhóm nhỏ và nhận phản hồi.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên học kỹ năng viết báo cáo không?",
+"answer": "Viết báo cáo là kỹ năng quan trọng trong học tập và công việc nên sinh viên rất nên rèn luyện.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên trình bày báo cáo như thế nào cho rõ ràng?",
+"answer": "Sinh viên nên chia bố cục hợp lý, trình bày ngắn gọn, dùng tiêu đề rõ và trích dẫn nguồn khi cần.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên học cách đặt câu hỏi như thế nào?",
+"answer": "Sinh viên nên đặt câu hỏi ngắn gọn, rõ ngữ cảnh và tập trung vào điều chưa hiểu thay vì hỏi quá mơ hồ.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên chủ động hỏi giảng viên không?",
+"answer": "Chủ động hỏi giảng viên giúp sinh viên hiểu bài hơn và thể hiện thái độ học tập tích cực.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì khi ngại phát biểu trước lớp?",
+"answer": "Sinh viên có thể bắt đầu bằng những câu hỏi ngắn, chuẩn bị trước ý muốn nói và luyện nói trong nhóm nhỏ.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu bị trễ giờ học thường xuyên?",
+"answer": "Sinh viên nên xem lại lịch sinh hoạt, chuẩn bị đồ từ tối hôm trước và tính thêm thời gian di chuyển dự phòng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên di chuyển đến trường bằng phương tiện nào?",
+"answer": "Phương tiện phù hợp phụ thuộc vào khoảng cách, chi phí, độ an toàn và thời gian di chuyển của từng sinh viên.",
+"category": "transport"
+},
+{
+"question": "Sinh viên đi xe buýt có lợi ích gì?",
+"answer": "Đi xe buýt giúp tiết kiệm chi phí và giảm áp lực tìm chỗ gửi xe, đặc biệt với quãng đường dài.",
+"category": "transport"
+},
+{
+"question": "Sinh viên nên chuẩn bị gì nếu đi học bằng xe máy?",
+"answer": "Sinh viên nên kiểm tra xăng xe, giấy tờ, mũ bảo hiểm và theo dõi thời tiết trước khi đi.",
+"category": "transport"
+},
+{
+"question": "Sinh viên nên làm gì khi gặp thời tiết xấu lúc đi học?",
+"answer": "Sinh viên nên đi sớm hơn, mang áo mưa hoặc dụng cụ cần thiết và ưu tiên an toàn khi di chuyển.",
+"category": "transport"
+},
+{
+"question": "Sinh viên có nên mua bình nước cá nhân không?",
+"answer": "Bình nước cá nhân giúp tiết kiệm chi phí và nhắc nhở sinh viên uống đủ nước trong ngày.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên uống bao nhiêu nước mỗi ngày?",
+"answer": "Lượng nước phù hợp phụ thuộc cơ thể và mức vận động, nhưng sinh viên nên duy trì uống nước đều trong ngày.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên uống quá nhiều cà phê để thức học không?",
+"answer": "Dùng quá nhiều cà phê có thể gây mất ngủ và mệt mỏi, nên sinh viên cần sử dụng ở mức hợp lý.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên ăn uống như thế nào để giữ sức khi học nhiều?",
+"answer": "Sinh viên nên ăn đủ bữa, ưu tiên thực phẩm lành mạnh và tránh bỏ bữa kéo dài.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên bỏ bữa sáng không?",
+"answer": "Bữa sáng giúp cung cấp năng lượng cho buổi học nên sinh viên không nên bỏ thường xuyên.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên căng thẳng trước deadline?",
+"answer": "Sinh viên nên chia nhỏ công việc, bắt đầu sớm và dành thời gian nghỉ ngắn hợp lý để giảm áp lực.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì khi bị mất tập trung trong lúc học?",
+"answer": "Sinh viên có thể thử học theo phiên ngắn, tắt thông báo điện thoại và thay đổi không gian học nếu cần.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên dùng phương pháp Pomodoro không?",
+"answer": "Pomodoro phù hợp với nhiều sinh viên vì giúp chia thời gian học thành các phiên ngắn dễ tập trung hơn.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên dành ngày nghỉ hoàn toàn để thư giãn không?",
+"answer": "Có một khoảng nghỉ để hồi phục là cần thiết, miễn là sinh viên vẫn giữ được tiến độ tổng thể của mình.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên cân bằng giữa cuộc sống cá nhân và học tập như thế nào?",
+"answer": "Sinh viên nên có lịch sinh hoạt ổn định, ưu tiên việc quan trọng và dành thời gian chất lượng cho nghỉ ngơi.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tham gia các cuộc thi kỹ năng không?",
+"answer": "Các cuộc thi kỹ năng giúp sinh viên rèn luyện sự tự tin, khả năng phản biện và trình bày ý tưởng.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên chuẩn bị gì trước khi đi phỏng vấn thực tập?",
+"answer": "Sinh viên nên tìm hiểu công ty, chuẩn bị CV, luyện trả lời câu hỏi cơ bản và chọn trang phục gọn gàng, phù hợp.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên trả lời câu hỏi giới thiệu bản thân khi phỏng vấn như thế nào?",
+"answer": "Sinh viên nên giới thiệu ngắn gọn về bản thân, ngành học, điểm mạnh và mục tiêu liên quan đến vị trí ứng tuyển.",
+"category": "career"
+},
+{
+"question": "Sinh viên chưa có kinh nghiệm thì viết gì vào CV?",
+"answer": "Sinh viên có thể đưa vào dự án cá nhân, hoạt động ngoại khóa, kỹ năng, thành tích và các trải nghiệm liên quan.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên chuẩn bị portfolio không?",
+"answer": "Portfolio đặc biệt hữu ích nếu sinh viên có dự án, sản phẩm hoặc thành tích muốn thể hiện rõ hơn ngoài CV.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên học kỹ năng làm việc nhóm bằng cách nào?",
+"answer": "Sinh viên có thể rèn luyện qua các đồ án nhóm, câu lạc bộ và hoạt động có phân chia vai trò rõ ràng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên xử lý thế nào khi làm việc nhóm không đồng đều?",
+"answer": "Sinh viên nên trao đổi thẳng thắn, phân công cụ thể, đặt deadline rõ và lưu lại tiến độ công việc của từng thành viên.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên đi làm cộng tác viên không?",
+"answer": "Làm cộng tác viên có thể là cách tốt để tích lũy kinh nghiệm nếu khối lượng công việc phù hợp.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên chọn công việc làm thêm gần ngành hay dễ làm?",
+"answer": "Nếu có thể, sinh viên nên ưu tiên công việc gần ngành để tích lũy kinh nghiệm, nhưng vẫn cần cân nhắc thời gian và thu nhập.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên làm gì nếu bị chậm lương khi làm thêm?",
+"answer": "Sinh viên nên liên hệ trực tiếp với nơi làm việc để xác nhận, lưu bằng chứng trao đổi và xử lý một cách chuyên nghiệp.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên có nên nhận việc làm thêm không rõ thỏa thuận không?",
+"answer": "Sinh viên nên cẩn trọng với công việc không rõ điều kiện, thời gian hoặc quyền lợi để tránh rủi ro.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên cảnh giác với dấu hiệu lừa đảo việc làm nào?",
+"answer": "Những dấu hiệu như yêu cầu nộp phí trước, mô tả công việc mơ hồ hoặc thu nhập quá hấp dẫn bất thường cần được cảnh giác.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy cô đơn ở đại học?",
+"answer": "Sinh viên có thể chủ động kết nối với bạn cùng lớp, tham gia hoạt động chung và duy trì liên lạc với người thân.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì khi nhớ nhà quá nhiều?",
+"answer": "Sinh viên có thể giữ liên lạc thường xuyên với gia đình, xây dựng nếp sống mới và cho bản thân thời gian thích nghi.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tìm mentor không?",
+"answer": "Mentor có thể giúp sinh viên định hướng tốt hơn về học tập và nghề nghiệp nên đây là một lựa chọn rất hữu ích.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên tìm mentor ở đâu?",
+"answer": "Sinh viên có thể tìm mentor từ giảng viên, anh chị khóa trên, cựu sinh viên hoặc người đi trước trong lĩnh vực quan tâm.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên hỏi mentor những gì?",
+"answer": "Sinh viên có thể hỏi về định hướng học tập, kỹ năng cần thiết, cách xây dựng hồ sơ và những sai lầm nên tránh.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên tham gia seminar chuyên ngành không?",
+"answer": "Seminar giúp sinh viên mở rộng góc nhìn và hiểu hơn về xu hướng trong lĩnh vực mình theo đuổi.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên chuẩn bị gì trước khi tham gia seminar?",
+"answer": "Sinh viên nên tìm hiểu chủ đề trước, mang theo dụng cụ ghi chú và chuẩn bị câu hỏi nếu muốn trao đổi thêm.",
+"category": "activities"
+},
+{
+"question": "Sinh viên có nên đọc sách ngoài giáo trình không?",
+"answer": "Đọc thêm sách ngoài giáo trình giúp sinh viên mở rộng hiểu biết và phát triển tư duy sâu hơn.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên đọc sách gì để phát triển bản thân?",
+"answer": "Sinh viên có thể chọn sách về quản lý thời gian, giao tiếp, tư duy phản biện, tài chính cá nhân và định hướng nghề nghiệp.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên học cách viết email xin việc như thế nào?",
+"answer": "Email xin việc nên ngắn gọn, lịch sự, nêu rõ vị trí ứng tuyển và đính kèm tài liệu cần thiết đúng cách.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên dùng mẫu CV có sẵn không?",
+"answer": "Mẫu CV có sẵn có thể giúp bắt đầu nhanh, nhưng sinh viên nên chỉnh sửa để phù hợp với bản thân và vị trí ứng tuyển.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên có ảnh trong CV không?",
+"answer": "Điều này phụ thuộc vào vị trí ứng tuyển và tiêu chuẩn ngành, nhưng nếu dùng ảnh thì nên chọn ảnh rõ ràng, chuyên nghiệp.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên ghi điểm trung bình vào CV không?",
+"answer": "Nếu điểm trung bình tốt hoặc có lợi cho vị trí ứng tuyển thì sinh viên có thể đưa vào CV.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì nếu chưa biết mình thích ngành nào?",
+"answer": "Sinh viên nên thử trải nghiệm nhiều hoạt động, dự án hoặc môn học liên quan để hiểu rõ sở thích và điểm mạnh của mình hơn.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên đổi định hướng nghề nghiệp trong đại học không?",
+"answer": "Thay đổi định hướng là điều bình thường nếu sinh viên nhận ra hướng khác phù hợp hơn với năng lực và mục tiêu của mình.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì nếu không thích ngành đang học?",
+"answer": "Sinh viên nên đánh giá lại lý do, tìm hiểu các lựa chọn khác và trao đổi với người có kinh nghiệm trước khi quyết định lớn.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên học cách ra quyết định như thế nào?",
+"answer": "Sinh viên nên xem xét mục tiêu, thông tin hiện có, lợi hại của từng lựa chọn và chừa thời gian để suy nghĩ rõ ràng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để tăng tính kỷ luật bản thân?",
+"answer": "Sinh viên nên bắt đầu từ thói quen nhỏ, giữ lịch ổn định và tự theo dõi mức độ hoàn thành mỗi ngày.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu dùng mạng xã hội quá nhiều?",
+"answer": "Sinh viên nên giới hạn thời gian sử dụng, tắt thông báo không cần thiết và đặt điện thoại xa khu vực học tập.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tham gia các khóa học online ngoài trường không?",
+"answer": "Các khóa học online có thể giúp bổ sung kiến thức và kỹ năng thực tế nếu được chọn lọc phù hợp.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên chọn khóa học online như thế nào?",
+"answer": "Sinh viên nên chọn khóa học có nội dung rõ ràng, giảng viên đáng tin cậy và phù hợp với mục tiêu hiện tại.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì để duy trì động lực lâu dài?",
+"answer": "Sinh viên nên có mục tiêu rõ ràng, theo dõi tiến bộ đều đặn và học cách nghỉ ngơi đúng lúc để tránh kiệt sức.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tự thưởng cho bản thân khi hoàn thành mục tiêu không?",
+"answer": "Tự thưởng hợp lý có thể giúp duy trì động lực và tạo cảm giác tích cực với quá trình học tập, làm việc.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu bị từ chối khi ứng tuyển thực tập?",
+"answer": "Sinh viên nên xem đó là cơ hội rút kinh nghiệm, cập nhật hồ sơ và tiếp tục cải thiện kỹ năng để thử lại.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mình chậm hơn bạn bè?",
+"answer": "Sinh viên nên tập trung vào hành trình cá nhân, tránh so sánh cực đoan và kiên trì cải thiện theo tốc độ phù hợp.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu mới chuyển lên thành phố để học?",
+"answer": "Sinh viên nên tìm hiểu khu vực sống, phương tiện di chuyển, địa điểm mua đồ thiết yếu và lưu các số liên lạc quan trọng.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên chuẩn bị những giấy tờ gì khi sống xa nhà?",
+"answer": "Sinh viên nên giữ cẩn thận căn cước công dân, thẻ sinh viên, giấy tờ thuê trọ và bản chụp dự phòng trên điện thoại hoặc cloud.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên có nên lập danh sách việc cần làm mỗi ngày không?",
+"answer": "Danh sách việc cần làm giúp sinh viên không bỏ sót nhiệm vụ và dễ theo dõi tiến độ hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên bắt đầu ngày mới như thế nào để hiệu quả hơn?",
+"answer": "Sinh viên nên thức dậy đúng giờ, ăn sáng, xem nhanh lịch trong ngày và xác định việc quan trọng nhất cần hoàn thành.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu hay thức khuya nhưng sáng vẫn phải đi học?",
+"answer": "Sinh viên nên điều chỉnh dần giờ ngủ, giảm dùng điện thoại ban đêm và tránh dồn việc sang quá khuya.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên ngủ trưa không?",
+"answer": "Ngủ trưa ngắn có thể giúp hồi phục năng lượng, nhưng không nên ngủ quá lâu nếu dễ mệt hoặc khó ngủ buổi tối.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên bỏ lỡ xe buýt hoặc đến muộn?",
+"answer": "Sinh viên nên theo dõi giờ xe, chuẩn bị trước đồ dùng và ra khỏi nhà sớm hơn một khoảng dự phòng hợp lý.",
+"category": "transport"
+},
+{
+"question": "Sinh viên nên chọn trọ dựa trên tiêu chí nào?",
+"answer": "Sinh viên nên cân nhắc giá thuê, an ninh, khoảng cách đến trường, môi trường xung quanh và chi phí sinh hoạt tổng thể.",
+"category": "housing"
+},
+{
+"question": "Sinh viên có nên ưu tiên trọ gần trường hơn trọ rẻ hơn không?",
+"answer": "Điều này phụ thuộc vào ngân sách, nhưng khoảng cách gần trường có thể giúp tiết kiệm thời gian và công sức di chuyển.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên làm gì nếu chủ trọ tăng giá bất ngờ?",
+"answer": "Sinh viên nên xem lại hợp đồng, trao đổi rõ ràng với chủ trọ và đánh giá lại khả năng tiếp tục ở hay tìm nơi khác.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên kiểm tra hợp đồng thuê trọ ở những điểm nào?",
+"answer": "Sinh viên nên kiểm tra tiền cọc, thời hạn thuê, điều kiện chấm dứt hợp đồng, chi phí điện nước và các quy định phát sinh.",
+"category": "housing"
+},
+{
+"question": "Sinh viên có nên chụp lại tình trạng phòng lúc mới nhận trọ không?",
+"answer": "Chụp lại hiện trạng ban đầu giúp sinh viên có bằng chứng rõ ràng nếu phát sinh tranh chấp sau này.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên làm gì nếu phòng trọ có vấn đề về an ninh?",
+"answer": "Sinh viên nên báo ngay cho chủ trọ hoặc ban quản lý và cân nhắc chuyển chỗ ở nếu rủi ro kéo dài.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên làm gì nếu hàng xóm trọ gây ồn thường xuyên?",
+"answer": "Sinh viên nên trao đổi lịch sự trước, nếu không cải thiện thì báo cho chủ trọ hoặc người quản lý.",
+"category": "housing"
+},
+{
+"question": "Sinh viên có nên mua đồ gia dụng chung khi ở ghép không?",
+"answer": "Có thể mua chung để tiết kiệm, nhưng nên thống nhất rõ cách sử dụng và chia chi phí ngay từ đầu.",
+"category": "housing"
+},
+{
+"question": "Sinh viên nên chia tiền điện nước khi ở ghép thế nào?",
+"answer": "Sinh viên nên thống nhất cách chia ngay từ đầu, thường là chia đều hoặc theo mức sử dụng nếu có thể theo dõi riêng.",
+"category": "finance"
+},
+{
+"question": "Sinh viên có nên có quỹ dự phòng hàng tháng không?",
+"answer": "Một khoản dự phòng nhỏ giúp sinh viên xử lý các tình huống phát sinh như ốm đau, hỏng xe hoặc chi phí đột xuất.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên giữ tiền tiết kiệm ở đâu?",
+"answer": "Sinh viên có thể giữ trong tài khoản ngân hàng riêng hoặc một hình thức tiết kiệm an toàn, dễ kiểm soát.",
+"category": "finance"
+},
+{
+"question": "Sinh viên có nên chia tài khoản theo mục đích chi tiêu không?",
+"answer": "Chia tiền theo mục đích như sinh hoạt, học tập và dự phòng có thể giúp kiểm soát tài chính tốt hơn.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên xử lý thế nào khi bạn bè rủ chi tiêu vượt khả năng?",
+"answer": "Sinh viên nên từ chối khéo và ưu tiên kế hoạch tài chính cá nhân thay vì chi theo cảm xúc hoặc áp lực xã hội.",
+"category": "finance"
+},
+{
+"question": "Sinh viên có nên dùng thẻ tín dụng không?",
+"answer": "Nếu chưa có khả năng quản lý chi tiêu tốt, sinh viên nên cẩn trọng với thẻ tín dụng để tránh nợ ngoài kiểm soát.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên làm gì nếu bị nợ do chi tiêu thiếu kiểm soát?",
+"answer": "Sinh viên nên dừng chi tiêu không cần thiết, lập kế hoạch trả nợ và tìm cách tăng thu nhập hợp lý nếu cần.",
+"category": "finance"
+},
+{
+"question": "Sinh viên nên mua sách giấy hay dùng tài liệu điện tử?",
+"answer": "Tùy thói quen học tập, nhưng tài liệu điện tử thường tiện tra cứu còn sách giấy phù hợp với người thích đọc tập trung hơn.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên in tài liệu học không?",
+"answer": "Chỉ nên in những tài liệu thực sự cần đọc kỹ hoặc ghi chú nhiều để tiết kiệm chi phí và bảo vệ môi trường.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên sắp xếp file tài liệu học thế nào?",
+"answer": "Sinh viên nên chia theo môn, theo tuần hoặc theo loại tài liệu để dễ tìm lại khi cần.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên đặt tên file tài liệu như thế nào cho dễ tìm?",
+"answer": "Sinh viên nên dùng tên rõ ràng, có môn học, nội dung và thời gian nếu cần để việc tra cứu dễ dàng hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên có nên sao lưu dữ liệu bài tập thường xuyên không?",
+"answer": "Sao lưu thường xuyên giúp tránh mất dữ liệu do lỗi máy, xóa nhầm hoặc sự cố bất ngờ.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên dùng ổ cứng ngoài hay cloud để lưu dữ liệu?",
+"answer": "Cloud tiện truy cập mọi nơi còn ổ cứng ngoài hữu ích cho sao lưu lớn; dùng kết hợp thường an toàn hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu laptop bị hỏng sát deadline?",
+"answer": "Sinh viên nên ưu tiên sao lưu dữ liệu từ trước và có phương án dự phòng như dùng máy trường, bạn bè hoặc dịch vụ sửa nhanh.",
+"category": "technology"
+},
+{
+"question": "Sinh viên có nên dùng phần mềm bản quyền không?",
+"answer": "Dùng phần mềm hợp pháp giúp đảm bảo an toàn, ổn định và tránh các rủi ro về bảo mật hoặc pháp lý.",
+"category": "technology"
+},
+{
+"question": "Sinh viên nên làm gì để bảo vệ laptop khỏi virus?",
+"answer": "Sinh viên nên cập nhật hệ điều hành, tránh tải file không rõ nguồn gốc và cẩn thận khi cắm USB lạ.",
+"category": "technology"
+},
+{
+"question": "Sinh viên có nên cài quá nhiều ứng dụng trên laptop không?",
+"answer": "Cài quá nhiều ứng dụng không cần thiết có thể làm máy chậm và khó quản lý hơn.",
+"category": "technology"
+},
+{
+"question": "Sinh viên nên làm gì nếu máy tính chạy chậm trong thời gian dài?",
+"answer": "Sinh viên nên dọn bộ nhớ, xóa ứng dụng không dùng, kiểm tra cập nhật và sao lưu dữ liệu quan trọng.",
+"category": "technology"
+},
+{
+"question": "Sinh viên nên có thói quen nào để bảo vệ sức khỏe mắt khi học với máy tính?",
+"answer": "Sinh viên nên nghỉ mắt định kỳ, điều chỉnh ánh sáng phù hợp và tránh nhìn màn hình liên tục quá lâu.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu bị đau lưng do ngồi học lâu?",
+"answer": "Sinh viên nên thay đổi tư thế, đứng dậy vận động ngắn sau mỗi khoảng học và điều chỉnh bàn ghế phù hợp hơn.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên học trong quán cà phê không?",
+"answer": "Một số sinh viên tập trung tốt ở quán cà phê, nhưng nên cân nhắc chi phí, tiếng ồn và thời gian di chuyển.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu luôn cảm thấy mình không đủ giỏi?",
+"answer": "Sinh viên nên ghi nhận tiến bộ nhỏ, tránh tự đánh giá cực đoan và tập trung vào việc cải thiện từng bước.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên đi tư vấn tâm lý khi cần không?",
+"answer": "Tìm tư vấn tâm lý là lựa chọn tích cực nếu sinh viên cảm thấy áp lực kéo dài hoặc khó tự cân bằng.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên lo âu trước các buổi thuyết trình?",
+"answer": "Sinh viên nên luyện tập nhiều lần, chuẩn bị kỹ nội dung và bắt đầu bằng các buổi nói nhỏ để tăng dần sự tự tin.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên học cách từ chối như thế nào?",
+"answer": "Sinh viên nên từ chối lịch sự, rõ ràng và không cảm thấy có lỗi khi cần bảo vệ thời gian hoặc giới hạn cá nhân.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên tham gia quá nhiều hoạt động cùng lúc không?",
+"answer": "Tham gia quá nhiều hoạt động có thể gây quá tải, vì vậy sinh viên nên chọn lọc theo mục tiêu và quỹ thời gian.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên chọn hoạt động ngoại khóa theo tiêu chí nào?",
+"answer": "Sinh viên nên chọn hoạt động phù hợp với sở thích, giá trị học hỏi và khả năng duy trì lâu dài.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên làm gì nếu đã đăng ký hoạt động nhưng không theo nổi?",
+"answer": "Sinh viên nên đánh giá lại lịch cá nhân, trao đổi thẳng thắn với ban tổ chức và ưu tiên trách nhiệm chính của mình.",
+"category": "activities"
+},
+{
+"question": "Sinh viên có nên tham gia ban tổ chức sự kiện không?",
+"answer": "Tham gia tổ chức sự kiện giúp sinh viên rèn kỹ năng teamwork, giao tiếp và xử lý tình huống thực tế.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên chuẩn bị gì khi tham gia một chuyến đi ngoại khóa?",
+"answer": "Sinh viên nên chuẩn bị giấy tờ cần thiết, đồ dùng cá nhân, kế hoạch di chuyển và nắm rõ lịch trình của chuyến đi.",
+"category": "activities"
+},
+{
+"question": "Sinh viên nên làm gì để tạo mối quan hệ tốt với bạn cùng lớp?",
+"answer": "Sinh viên nên chủ động giao tiếp, giữ thái độ tôn trọng và sẵn sàng hỗ trợ khi phù hợp.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên kết bạn với anh chị khóa trên không?",
+"answer": "Kết nối với anh chị khóa trên có thể giúp sinh viên học hỏi kinh nghiệm thực tế về học tập và định hướng nghề nghiệp.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên hỏi anh chị khóa trên những gì?",
+"answer": "Sinh viên có thể hỏi về cách học, cách quản lý thời gian, kinh nghiệm thực tập và các lỗi thường gặp ở từng giai đoạn.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy bị lạc lõng trong lớp?",
+"answer": "Sinh viên nên bắt đầu từ những tương tác nhỏ, tham gia nhóm học tập hoặc một hoạt động chung để tạo kết nối dần dần.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên chủ động bắt chuyện với giảng viên ngoài giờ học không?",
+"answer": "Nếu có câu hỏi phù hợp, sinh viên nên chủ động trao đổi lịch sự để hiểu bài tốt hơn và xây dựng kết nối học thuật tích cực.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì để tạo ấn tượng chuyên nghiệp với giảng viên?",
+"answer": "Sinh viên nên đúng giờ, giao tiếp lịch sự, chuẩn bị trước khi hỏi và thể hiện thái độ học tập nghiêm túc.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên lưu lại các thành tích nhỏ của mình không?",
+"answer": "Lưu lại thành tích, dự án và hoạt động sẽ rất hữu ích khi cập nhật CV hoặc portfolio sau này.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên ghi nhận thành tích cá nhân như thế nào?",
+"answer": "Sinh viên có thể lưu trong một hồ sơ riêng gồm chứng chỉ, bài viết, dự án, giải thưởng và hoạt động nổi bật.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên viết nhật ký học tập không?",
+"answer": "Nhật ký học tập giúp sinh viên nhìn lại tiến độ, thói quen và các điểm cần cải thiện qua thời gian.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên tự đánh giá bản thân theo cách nào?",
+"answer": "Sinh viên nên dựa trên mục tiêu, tiến độ thực tế và những kỹ năng đã cải thiện thay vì chỉ nhìn vào một kết quả đơn lẻ.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mất phương hướng trong năm học?",
+"answer": "Sinh viên nên dừng lại để xem lại mục tiêu, ưu tiên, thói quen hiện tại và tìm sự hỗ trợ từ người có kinh nghiệm nếu cần.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên có mục tiêu ngắn hạn và dài hạn không?",
+"answer": "Có mục tiêu ngắn hạn giúp duy trì động lực hàng ngày, còn mục tiêu dài hạn giúp sinh viên không bị mất định hướng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy bản thân trì hoãn quá nhiều?",
+"answer": "Sinh viên nên bắt đầu từ nhiệm vụ nhỏ nhất có thể làm ngay và giảm các yếu tố gây phân tâm trong lúc học.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên chia việc lớn thành việc nhỏ không?",
+"answer": "Chia nhỏ công việc giúp sinh viên dễ bắt đầu hơn và giảm cảm giác quá tải trước nhiệm vụ lớn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì khi có quá nhiều việc cùng lúc?",
+"answer": "Sinh viên nên sắp xếp theo mức độ quan trọng và khẩn cấp, sau đó xử lý từng phần theo thứ tự ưu tiên.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên dùng nguyên tắc ưu tiên nào khi sắp xếp công việc?",
+"answer": "Sinh viên có thể ưu tiên theo deadline, mức độ quan trọng và tác động của từng nhiệm vụ đến mục tiêu chung.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên dành thời gian cho sở thích cá nhân không?",
+"answer": "Duy trì sở thích lành mạnh giúp sinh viên cân bằng tinh thần và tránh kiệt sức trong cuộc sống đại học.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy ngày nào cũng quá giống nhau?",
+"answer": "Sinh viên có thể thay đổi không gian học, thêm hoạt động mới hoặc đặt thử thách nhỏ để tạo cảm giác mới mẻ hơn.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tham gia các khóa kỹ năng ngắn hạn không?",
+"answer": "Khóa ngắn hạn có thể giúp bổ sung kỹ năng cụ thể trong thời gian ngắn nếu chọn đúng nhu cầu.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên chọn chứng chỉ kỹ năng nào trước?",
+"answer": "Sinh viên nên ưu tiên chứng chỉ hoặc khóa học gắn với kỹ năng thiết thực cho mục tiêu học tập và nghề nghiệp trước mắt.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên đi làm freelancer không?",
+"answer": "Freelance có thể giúp sinh viên tích lũy kinh nghiệm và thu nhập, nhưng cần quản lý tốt thời gian và chất lượng công việc.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên bắt đầu freelance bằng cách nào?",
+"answer": "Sinh viên nên xây nền kỹ năng, làm vài dự án nhỏ, xây hồ sơ cá nhân rõ ràng và nhận việc phù hợp năng lực ban đầu.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên xử lý thế nào khi bị khách hàng ép giá?",
+"answer": "Sinh viên nên hiểu rõ giá trị công việc, báo giá hợp lý và giữ thái độ chuyên nghiệp khi thương lượng.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên có nên nhận quá nhiều dự án cùng lúc không?",
+"answer": "Nhận quá nhiều việc có thể làm giảm chất lượng và tăng áp lực, nên sinh viên cần lượng sức trước khi nhận thêm.",
+"category": "jobs"
+},
+{
+"question": "Sinh viên nên làm gì để duy trì hình ảnh chuyên nghiệp trên mạng?",
+"answer": "Sinh viên nên cẩn trọng với nội dung công khai, giữ thái độ tôn trọng và xây dựng hồ sơ online nhất quán, tích cực.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên tách tài khoản cá nhân và tài khoản nghề nghiệp trên mạng xã hội không?",
+"answer": "Tách riêng có thể giúp sinh viên quản lý hình ảnh cá nhân và chuyên nghiệp tốt hơn.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì nếu chưa có nhiều thành tích để đưa lên hồ sơ?",
+"answer": "Sinh viên có thể bắt đầu từ dự án nhỏ, hoạt động ngoại khóa, quá trình học tập nghiêm túc và những kết quả tiến bộ rõ ràng.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên tự học thêm ngoài chương trình không?",
+"answer": "Tự học thêm giúp mở rộng kiến thức và tăng khả năng thích ứng với nhu cầu thực tế ngoài lớp học.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên chọn chủ đề tự học như thế nào?",
+"answer": "Sinh viên nên chọn chủ đề gắn với mục tiêu ngắn hạn, điểm yếu hiện tại hoặc lĩnh vực mình muốn theo đuổi lâu dài.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu bắt đầu nhiều thứ nhưng không hoàn thành cái nào?",
+"answer": "Sinh viên nên giảm số mục tiêu cùng lúc, ưu tiên một vài việc quan trọng nhất và hoàn thành từng bước nhỏ.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên theo dõi tiến độ bằng checklist không?",
+"answer": "Checklist đơn giản giúp sinh viên thấy rõ việc đã làm và tạo động lực hoàn thành từng phần công việc.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên nghỉ ngơi như thế nào để không bị mệt mỏi kéo dài?",
+"answer": "Sinh viên nên xen kẽ thời gian học với vận động nhẹ, ngủ đủ và tránh làm việc liên tục trong thời gian quá dài.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên ăn vặt khi học không?",
+"answer": "Ăn nhẹ hợp lý có thể giúp duy trì năng lượng, nhưng sinh viên nên tránh ăn quá nhiều đồ ngọt hoặc thức ăn nhanh.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu hay quên việc cá nhân quan trọng?",
+"answer": "Sinh viên nên dùng lịch nhắc việc cho cả học tập lẫn sinh hoạt cá nhân thay vì chỉ ghi nhớ bằng đầu.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên tách lịch học và lịch cá nhân hay dùng chung?",
+"answer": "Dùng chung trong một hệ thống lịch giúp sinh viên có cái nhìn tổng thể và tránh trùng chéo công việc.",
+"category": "tools"
+},
+{
+"question": "Sinh viên có nên đặt mục tiêu theo tháng không?",
+"answer": "Mục tiêu theo tháng giúp sinh viên theo dõi tiến độ dài hơn tuần nhưng vẫn đủ gần để dễ điều chỉnh.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên bỏ dở kế hoạch?",
+"answer": "Sinh viên nên đặt kế hoạch thực tế hơn, giảm số việc cần làm và xem lại nguyên nhân khiến mình khó duy trì.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên chia sẻ khó khăn của mình với bạn bè không?",
+"answer": "Chia sẻ với người đáng tin cậy có thể giúp sinh viên cảm thấy nhẹ hơn và nhìn vấn đề rõ ràng hơn.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mình không có ai để chia sẻ?",
+"answer": "Sinh viên có thể bắt đầu từ người thân, cố vấn học tập hoặc tìm đến các nguồn hỗ trợ chuyên nghiệp khi cần.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên giữ lịch sinh hoạt cố định không?",
+"answer": "Lịch sinh hoạt ổn định thường giúp sinh viên ngủ tốt hơn, tập trung hơn và giảm cảm giác hỗn loạn trong cuộc sống.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì để bắt đầu một học kỳ mới hiệu quả hơn?",
+"answer": "Sinh viên nên rà soát mục tiêu, cập nhật lịch học, chuẩn bị công cụ cần thiết và xây lại nhịp sinh hoạt từ sớm.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì trong tháng đầu của học kỳ để không bị hụt nhịp?",
+"answer": "Sinh viên nên theo dõi kỹ lịch học, ghi lại các mốc quan trọng, làm quen với nhịp học và bắt đầu hoàn thành các việc nhỏ ngay từ sớm.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên có nên rà soát lại mục tiêu cá nhân mỗi học kỳ không?",
+"answer": "Việc rà soát lại mục tiêu giúp sinh viên điều chỉnh kế hoạch phù hợp với tình hình thực tế và tránh đi chệch hướng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy lịch mỗi ngày quá dày đặc?",
+"answer": "Sinh viên nên xem lại các việc không thật sự cần thiết, gộp các nhiệm vụ tương tự và chừa khoảng nghỉ hợp lý giữa các đầu việc.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên để một ngày hoàn toàn không học trong tuần không?",
+"answer": "Một khoảng nghỉ ngắn có thể hữu ích, nhưng sinh viên nên đảm bảo tổng tiến độ học tập vẫn được duy trì ổn định.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên xử lý thế nào khi kế hoạch học tập liên tục bị phá vỡ?",
+"answer": "Sinh viên nên xây kế hoạch linh hoạt hơn, có phương án dự phòng và tập trung vào việc quay lại nhịp học thay vì tự trách quá lâu.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên dùng đồng hồ bấm giờ khi học không?",
+"answer": "Dùng đồng hồ bấm giờ giúp sinh viên ý thức rõ thời gian mình thực sự tập trung và dễ kiểm soát tiến độ hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu rất dễ bị cuốn vào điện thoại trong lúc học?",
+"answer": "Sinh viên nên để điện thoại xa khu vực học, bật chế độ tập trung hoặc dùng ứng dụng chặn xao nhãng trong thời gian học.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên học theo khung giờ cố định mỗi ngày không?",
+"answer": "Khung giờ cố định giúp hình thành thói quen và giảm thời gian trì hoãn vì cơ thể quen với nhịp sinh hoạt lặp lại.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên học vào buổi sáng hay buổi tối hiệu quả hơn?",
+"answer": "Hiệu quả phụ thuộc vào nhịp sinh học của từng người, nhưng sinh viên nên chọn khung giờ mình tỉnh táo và duy trì đều đặn.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên nghe podcast trong lúc di chuyển không?",
+"answer": "Podcast phù hợp có thể giúp sinh viên tận dụng thời gian di chuyển để học thêm hoặc thư giãn tích cực.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu phòng trọ quá nóng hoặc quá ồn để học?",
+"answer": "Sinh viên có thể đổi không gian học sang thư viện, phòng tự học hoặc tìm cách cải thiện điều kiện trong phòng nếu có thể.",
+"category": "housing"
+},
+{
+"question": "Sinh viên có nên đầu tư bàn học và ghế ngồi tốt không?",
+"answer": "Một góc học tập thoải mái và đúng tư thế giúp sinh viên giảm mỏi mệt và duy trì việc học lâu dài tốt hơn.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì để giữ phòng trọ gọn gàng hơn?",
+"answer": "Sinh viên nên dọn ngắn mỗi ngày, phân khu đồ đạc rõ ràng và không để việc nhỏ dồn thành khối lượng lớn khó xử lý.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên có nên mua hộp đựng tài liệu và đồ dùng học tập không?",
+"answer": "Các vật dụng sắp xếp đơn giản giúp sinh viên tìm đồ nhanh hơn và giữ góc học tập ngăn nắp hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên quên mang đồ khi ra khỏi nhà?",
+"answer": "Sinh viên có thể chuẩn bị một checklist cố định cho buổi sáng và để các vật dụng quan trọng ở vị trí dễ thấy.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên chuẩn bị ba lô từ tối hôm trước không?",
+"answer": "Chuẩn bị trước vào buổi tối giúp giảm vội vàng vào sáng hôm sau và hạn chế bỏ quên đồ quan trọng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu hay đến lớp trong trạng thái mệt mỏi?",
+"answer": "Sinh viên nên xem lại thời gian ngủ, ăn uống, lịch sinh hoạt và tránh để việc ban đêm kéo dài liên tục.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên uống nước tăng lực thường xuyên không?",
+"answer": "Uống quá thường xuyên không phải lựa chọn tốt lâu dài, sinh viên nên ưu tiên nghỉ ngơi và sinh hoạt điều độ hơn.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu lịch sinh hoạt bị đảo lộn sau kỳ nghỉ?",
+"answer": "Sinh viên nên điều chỉnh dần giờ ngủ, giờ thức và quay lại các thói quen học tập cơ bản từng bước một.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên dành một buổi mỗi tuần để tổng kết bản thân không?",
+"answer": "Tổng kết hàng tuần giúp sinh viên nhìn lại việc đã làm, phát hiện vấn đề và lên kế hoạch tốt hơn cho tuần tới.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu hay bắt đầu hăng hái nhưng nhanh chán?",
+"answer": "Sinh viên nên chia mục tiêu thành các chặng ngắn, thay đổi cách học linh hoạt và giữ nhịp đều thay vì quá cực đoan.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên theo dõi thói quen mỗi ngày không?",
+"answer": "Theo dõi thói quen giúp sinh viên biết mình đang duy trì tốt điều gì và điều gì thường bị đứt quãng.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì để duy trì thói quen mới?",
+"answer": "Sinh viên nên bắt đầu từ mức rất nhỏ, gắn với khung giờ cố định và duy trì liên tục trước khi tăng dần mức độ.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên học cách nói không với những lời rủ rê không cần thiết không?",
+"answer": "Biết từ chối đúng lúc giúp sinh viên bảo vệ thời gian, năng lượng và tập trung hơn vào ưu tiên của mình.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên thấy bản thân thiếu kỷ luật?",
+"answer": "Sinh viên nên giảm mục tiêu xuống mức dễ thực hiện hơn và tập trung duy trì đều thay vì đặt yêu cầu quá cao ngay từ đầu.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên lập danh sách việc quan trọng nhất trong ngày không?",
+"answer": "Chọn ra một đến ba việc quan trọng nhất mỗi ngày giúp sinh viên bớt lan man và tăng khả năng hoàn thành thực chất.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu cứ mở tài liệu ra là muốn làm việc khác?",
+"answer": "Sinh viên có thể bắt đầu bằng một nhiệm vụ rất nhỏ trong 5 đến 10 phút để vượt qua cảm giác ngại bắt đầu.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên tự đặt deadline sớm hơn deadline thật không?",
+"answer": "Đặt deadline sớm hơn một chút giúp sinh viên có khoảng đệm cho các sự cố hoặc chỉnh sửa vào phút cuối.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để tránh bị dồn việc cuối tuần?",
+"answer": "Sinh viên nên xử lý từng phần công việc trong tuần thay vì để mọi thứ chờ đến cuối tuần mới làm.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên để ngày cuối tuần hoàn toàn không đụng đến học tập không?",
+"answer": "Tùy khối lượng công việc, nhưng một khoảng thời gian nhẹ nhàng để xem lại kế hoạch vẫn thường hữu ích hơn bỏ hẳn hoàn toàn.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình mất nhiều thời gian cho việc lặt vặt?",
+"answer": "Sinh viên nên gom các việc lặt vặt thành một khung giờ riêng để không làm gián đoạn thời gian tập trung sâu.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên phân biệt giữa việc bận và việc hiệu quả không?",
+"answer": "Rất nên, vì bận rộn không đồng nghĩa với tiến bộ nếu phần lớn thời gian bị tiêu vào việc ít giá trị.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để biết mình học hiệu quả hay không?",
+"answer": "Sinh viên nên dựa vào mức độ hiểu, khả năng nhớ lại và tiến độ công việc thay vì chỉ dựa vào số giờ ngồi học.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên thử nhiều phương pháp học khác nhau không?",
+"answer": "Thử nghiệm giúp sinh viên tìm ra cách học phù hợp với bản thân thay vì áp dụng máy móc phương pháp của người khác.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy việc học không còn hứng thú như trước?",
+"answer": "Sinh viên có thể thay đổi môi trường học, cách học, mục tiêu ngắn hạn hoặc tìm lại lý do ban đầu khiến mình theo đuổi việc học.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên theo dõi sự tiến bộ hàng tháng không?",
+"answer": "Theo dõi theo tháng giúp sinh viên nhìn thấy bức tranh dài hơn và đánh giá được xu hướng tiến bộ hoặc chững lại của bản thân.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu không duy trì được thói quen đọc sách?",
+"answer": "Sinh viên có thể bắt đầu với mục tiêu rất nhỏ như vài trang mỗi ngày và chọn sách dễ tiếp cận hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên nghe sách nói không?",
+"answer": "Sách nói phù hợp với những lúc di chuyển hoặc nghỉ ngơi nhẹ, miễn là nội dung phù hợp và người nghe vẫn theo dõi được.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên thức dậy muộn?",
+"answer": "Sinh viên nên điều chỉnh giờ ngủ sớm dần, giảm thiết bị điện tử trước khi ngủ và đặt báo thức kèm thói quen buộc phải rời giường.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên dùng nhiều báo thức không?",
+"answer": "Dùng nhiều báo thức có thể hữu ích tạm thời, nhưng về lâu dài sinh viên nên điều chỉnh giấc ngủ để thức dậy tự nhiên hơn.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu ăn uống thất thường vì lịch học dày?",
+"answer": "Sinh viên nên chuẩn bị sẵn đồ ăn nhẹ lành mạnh và cố gắng giữ các bữa chính ở khung giờ tương đối ổn định.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên chuẩn bị bữa ăn từ trước không?",
+"answer": "Chuẩn bị trước giúp tiết kiệm thời gian, tiền bạc và giảm khả năng ăn uống qua loa khi quá bận.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên bỏ quên việc uống nước?",
+"answer": "Sinh viên có thể để bình nước trong tầm mắt, đặt nhắc nhở hoặc gắn việc uống nước với các mốc quen thuộc trong ngày.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên đi bộ nhiều hơn nếu quãng đường phù hợp không?",
+"answer": "Đi bộ là cách tốt để vận động nhẹ hàng ngày và có thể giúp đầu óc thư giãn hơn.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mình quá ít vận động?",
+"answer": "Sinh viên có thể bắt đầu bằng đi bộ ngắn, kéo giãn cơ giữa giờ học hoặc tham gia một hoạt động thể chất nhẹ nhàng.",
+"category": "health"
+},
+{
+"question": "Sinh viên có nên ghi lại tâm trạng mỗi ngày không?",
+"answer": "Việc ghi lại tâm trạng giúp sinh viên nhận ra các yếu tố khiến mình tốt hơn hoặc tệ hơn theo thời gian.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình dễ cáu gắt khi quá tải?",
+"answer": "Sinh viên nên tạm dừng, nghỉ ngắn, giảm bớt kích thích và xem lại khối lượng việc đang ôm quá nhiều hay không.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên học cách thở và thư giãn khi căng thẳng không?",
+"answer": "Các kỹ thuật thở chậm và thư giãn ngắn có thể giúp sinh viên bình tĩnh hơn trong những thời điểm áp lực cao.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mình đang kiệt sức vì quá nhiều trách nhiệm?",
+"answer": "Sinh viên nên giảm bớt cam kết không cần thiết, ưu tiên nghỉ ngơi và tìm sự hỗ trợ trước khi tình trạng nặng hơn.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên tạm dừng một số hoạt động nếu lịch quá tải không?",
+"answer": "Biết tạm dừng đúng lúc là cần thiết để bảo vệ sức khỏe tinh thần và chất lượng của những việc quan trọng hơn.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu liên tục thấy mình không theo kịp người khác?",
+"answer": "Sinh viên nên quay về với mục tiêu của bản thân, đánh giá nguồn lực hiện có và tập trung vào tiến bộ thật thay vì so sánh.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên đặt giới hạn với bạn bè và các mối quan hệ không?",
+"answer": "Giới hạn lành mạnh giúp sinh viên giữ cân bằng thời gian, cảm xúc và năng lượng cho những việc quan trọng.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu khó từ chối lời nhờ vả của người khác?",
+"answer": "Sinh viên có thể từ chối lịch sự bằng cách nói rõ mình đang có giới hạn thời gian hoặc trách nhiệm khác cần ưu tiên.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên lên kế hoạch cho kỳ nghỉ ngắn không?",
+"answer": "Kế hoạch nghỉ ngắn giúp sinh viên thật sự hồi phục thay vì để thời gian trôi qua mà vẫn cảm thấy mệt mỏi.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu sau kỳ nghỉ lại thấy lười quay lại nhịp học?",
+"answer": "Sinh viên nên bắt đầu bằng các việc đơn giản, xem lại lịch và dành một ngày để khởi động nhẹ thay vì ép quá mạnh ngay lập tức.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên giữ liên lạc với bạn cũ sau khi vào đại học không?",
+"answer": "Giữ liên lạc với bạn cũ có thể mang lại sự hỗ trợ tinh thần, nhưng sinh viên cũng nên mở lòng với các mối quan hệ mới.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì để kết bạn mới dễ hơn?",
+"answer": "Sinh viên có thể bắt đầu từ những cuộc trò chuyện nhỏ, cùng tham gia hoạt động chung hoặc chủ động hỗ trợ trong tình huống phù hợp.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên tham gia nhóm cộng đồng của trường không?",
+"answer": "Các nhóm cộng đồng có thể giúp sinh viên cập nhật thông tin, tìm tài nguyên và kết nối với nhiều người hơn.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình bị phân tâm quá nhiều bởi các nhóm chat?",
+"answer": "Sinh viên nên tắt thông báo những nhóm không quan trọng và chỉ kiểm tra vào các khung giờ nhất định.",
+"category": "tools"
+},
+{
+"question": "Sinh viên có nên tách tài khoản mạng xã hội cho học tập và giải trí không?",
+"answer": "Tách riêng có thể giúp sinh viên giảm xao nhãng và quản lý nội dung mình tiếp nhận hiệu quả hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu quá phụ thuộc vào cảm hứng mới làm việc?",
+"answer": "Sinh viên nên xây hệ thống thói quen và lịch cố định, vì cảm hứng không phải lúc nào cũng xuất hiện đúng lúc.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên học cách làm việc ngay cả khi không có động lực không?",
+"answer": "Đây là kỹ năng quan trọng vì phần lớn tiến bộ bền vững đến từ sự đều đặn hơn là cảm hứng ngắn hạn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để giảm cảm giác sợ bắt đầu một việc khó?",
+"answer": "Sinh viên nên tách việc khó thành bước đầu tiên rất nhỏ và chỉ tập trung vào việc bắt đầu thay vì nghĩ đến toàn bộ chặng đường.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên ghi lại những bài học rút ra sau mỗi giai đoạn không?",
+"answer": "Ghi lại bài học giúp sinh viên tránh lặp lại lỗi cũ và hiểu rõ hơn điều gì thực sự hiệu quả với mình.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để có cảm giác kiểm soát cuộc sống tốt hơn?",
+"answer": "Sinh viên nên quay về các yếu tố cơ bản như ngủ đủ, ăn đủ, lên lịch, dọn góc học tập và xử lý dứt điểm từng việc nhỏ.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên giữ một lịch sáng đơn giản cố định không?",
+"answer": "Một routine buổi sáng đơn giản giúp sinh viên bắt đầu ngày mới rõ ràng và ít bị rối hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu ngày nào cũng bắt đầu trong trạng thái gấp gáp?",
+"answer": "Sinh viên nên chuẩn bị từ tối hôm trước và giảm số quyết định nhỏ cần đưa ra vào buổi sáng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên theo dõi năng lượng của mình trong ngày không?",
+"answer": "Biết lúc nào mình tỉnh táo nhất sẽ giúp sinh viên sắp xếp việc quan trọng vào thời điểm phù hợp hơn.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên học lúc rất mệt?",
+"answer": "Sinh viên nên chuyển việc nặng sang khung giờ tốt hơn và dùng thời điểm mệt cho các việc nhẹ, ít đòi hỏi tập trung sâu.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên đổi không gian học khi bị bí ý tưởng không?",
+"answer": "Thay đổi môi trường có thể giúp đầu óc bớt trì trệ và tạo cảm giác mới mẻ để quay lại công việc dễ hơn.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy không còn kiểm soát được lịch cá nhân?",
+"answer": "Sinh viên nên dừng lại để liệt kê toàn bộ đầu việc, loại bỏ phần không cần thiết và xây lại lịch theo mức tối giản trước.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên ưu tiên sự ổn định trước khi theo đuổi quá nhiều mục tiêu lớn không?",
+"answer": "Một nền nếp ổn định về sinh hoạt và quản lý cá nhân thường giúp sinh viên theo đuổi mục tiêu lớn hiệu quả hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy bản thân luôn bận nhưng không tiến bộ nhiều?",
+"answer": "Sinh viên nên xem lại những việc đang chiếm nhiều thời gian nhưng ít giá trị, sau đó tập trung hơn vào các nhiệm vụ thật sự quan trọng.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên ghi lại thời gian mình dùng trong một ngày không?",
+"answer": "Theo dõi thời gian thực tế giúp sinh viên thấy rõ mình đang lãng phí ở đâu và điều chỉnh thói quen hiệu quả hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên đánh giá thấp thời gian cần cho một việc?",
+"answer": "Sinh viên nên cộng thêm thời gian dự phòng và dựa trên kinh nghiệm thực tế của các lần trước để ước lượng chính xác hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên dành thời gian dọn dẹp góc học tập hàng tuần không?",
+"answer": "Không gian học gọn gàng giúp sinh viên bớt xao nhãng và dễ bước vào trạng thái tập trung hơn.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu phòng trọ chật khiến việc học không thoải mái?",
+"answer": "Sinh viên có thể tối ưu lại góc học, dùng đồ lưu trữ gọn hơn hoặc tận dụng thêm thư viện và phòng tự học.",
+"category": "housing"
+},
+{
+"question": "Sinh viên có nên dùng tai nghe chống ồn khi học không?",
+"answer": "Tai nghe chống ồn có thể rất hữu ích nếu môi trường xung quanh nhiều tiếng động gây mất tập trung.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình quá phụ thuộc vào việc học cùng người khác?",
+"answer": "Sinh viên nên rèn thêm khả năng tự học độc lập bằng cách tự đặt mục tiêu nhỏ và hoàn thành trước khi tìm đến hỗ trợ.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên tự thưởng sau khi hoàn thành một giai đoạn khó không?",
+"answer": "Tự thưởng hợp lý giúp tạo cảm giác tích cực và duy trì động lực trong quá trình dài.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thường xuyên bị gián đoạn bởi việc nhà?",
+"answer": "Sinh viên nên gom việc nhà vào khung giờ riêng thay vì để chúng chen ngang vào thời gian học tập quan trọng.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên có nên sống tối giản để giảm áp lực không?",
+"answer": "Lối sống gọn gàng và ít vật dụng không cần thiết có thể giúp sinh viên giảm mệt mỏi tinh thần và chi tiêu lãng phí.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu khó duy trì động lực trong thời gian dài?",
+"answer": "Sinh viên nên quay về các mục tiêu nhỏ, theo dõi tiến bộ và tạo hệ thống hỗ trợ thay vì chỉ chờ cảm hứng.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên ghi lại mục tiêu bằng tay hay trên ứng dụng?",
+"answer": "Cách nào hiệu quả hơn tùy người, miễn là sinh viên nhìn thấy và sử dụng nó thường xuyên.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mọi thứ đang quá hỗn loạn?",
+"answer": "Sinh viên nên bắt đầu bằng việc ngủ đủ, dọn một không gian nhỏ, viết ra các việc đang tồn đọng và xử lý từng việc một.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên dành thời gian suy nghĩ về giá trị cá nhân không?",
+"answer": "Hiểu rõ điều mình coi trọng sẽ giúp sinh viên đưa ra quyết định nhất quán hơn về học tập, công việc và các mối quan hệ.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu dễ bị ảnh hưởng bởi ý kiến tiêu cực của người khác?",
+"answer": "Sinh viên nên xem xét nguồn góp ý, giữ lại phần hữu ích và tránh để những đánh giá không công bằng chi phối quá nhiều.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên học cách phản biện không?",
+"answer": "Kỹ năng phản biện giúp sinh viên suy nghĩ sâu hơn, trao đổi hiệu quả hơn và tránh tiếp nhận thông tin một cách thụ động.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để nâng cao khả năng diễn đạt ý tưởng?",
+"answer": "Sinh viên nên luyện viết, luyện nói, trình bày ngắn gọn và thường xuyên giải thích lại điều mình hiểu cho người khác.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên tham gia các buổi nói chuyện với cựu sinh viên không?",
+"answer": "Những buổi chia sẻ như vậy giúp sinh viên có góc nhìn thực tế hơn về nghề nghiệp và những gì cần chuẩn bị từ sớm.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì nếu chưa biết mình hợp với kiểu công việc nào?",
+"answer": "Sinh viên có thể thử các dự án nhỏ, trải nghiệm thực tập ngắn hoặc quan sát phản ứng của bản thân với từng loại công việc.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên đặt mục tiêu nghề nghiệp quá sớm không?",
+"answer": "Có định hướng sớm là tốt, nhưng sinh viên cũng nên giữ sự linh hoạt để điều chỉnh khi hiểu bản thân và thị trường rõ hơn.",
+"category": "career"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mình thiếu kỹ năng thực tế?",
+"answer": "Sinh viên nên tìm cơ hội làm dự án nhỏ, tham gia hoạt động thực hành và học thêm những kỹ năng có thể áp dụng ngay.",
+"category": "career"
+},
+{
+"question": "Sinh viên có nên học kỹ năng quản lý dự án cá nhân không?",
+"answer": "Biết cách chia việc, theo dõi tiến độ và phối hợp người khác sẽ rất hữu ích cả trong học tập lẫn công việc sau này.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì để bớt sợ khi thử điều mới?",
+"answer": "Sinh viên có thể bắt đầu từ quy mô nhỏ, cho phép mình chưa giỏi ngay và tập trung vào việc học được gì từ trải nghiệm đó.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên ghi lại các lỗi mình hay lặp lại không?",
+"answer": "Ghi lại các lỗi lặp đi lặp lại giúp sinh viên nhận diện vấn đề gốc và tránh mắc lại trong tương lai.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình hay quên bài học sau mỗi lần thất bại?",
+"answer": "Sinh viên nên viết ngắn lại điều đã xảy ra, nguyên nhân và cách xử lý khác cho lần sau để kinh nghiệm không bị trôi đi.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên tự tạo hệ thống ghi chú cá nhân không?",
+"answer": "Một hệ thống ghi chú nhất quán giúp sinh viên lưu kiến thức, tìm lại thông tin và kết nối ý tưởng tốt hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu ghi chú rất nhiều nhưng ít khi xem lại?",
+"answer": "Sinh viên nên ghi chú ngắn gọn hơn, tổ chức lại theo chủ đề và lên lịch xem lại định kỳ để ghi chú thật sự hữu ích.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên đặt câu hỏi cho bản thân sau khi hoàn thành một việc?",
+"answer": "Tự hỏi điều gì đã làm tốt, điều gì chưa tốt và lần sau sẽ làm khác đi thế nào là cách tốt để cải thiện liên tục.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu không biết bắt đầu cải thiện từ đâu?",
+"answer": "Sinh viên nên chọn một vấn đề gây ảnh hưởng lớn nhất ở hiện tại và tập trung xử lý nó trước thay vì sửa mọi thứ cùng lúc.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên dùng một ứng dụng duy nhất cho mọi việc không?",
+"answer": "Không nhất thiết, sinh viên nên chọn số công cụ vừa đủ để tiện quản lý nhưng không làm mình bị rối hơn.",
+"category": "tools"
+},
+{
+"question": "Sinh viên nên làm gì nếu liên tục đổi công cụ quản lý nhưng vẫn không hiệu quả?",
+"answer": "Vấn đề thường nằm ở thói quen sử dụng hơn là công cụ, nên sinh viên cần ưu tiên xây quy trình đơn giản và bền vững.",
+"category": "tools"
+},
+{
+"question": "Sinh viên có nên để bàn học thật tối giản không?",
+"answer": "Một bàn học ít vật gây xao nhãng thường giúp dễ tập trung hơn, miễn là vẫn đủ những thứ cần thiết để học.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu hay bị bạn bè kéo đi chơi khi đang cần làm việc?",
+"answer": "Sinh viên nên nói rõ lịch của mình và đưa ra thời gian khác phù hợp hơn thay vì miễn cưỡng đi rồi căng thẳng sau đó.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên đặt ra nguyên tắc cá nhân về giờ nghỉ và giờ học không?",
+"answer": "Những nguyên tắc rõ ràng giúp sinh viên giảm bớt việc ra quyết định liên tục và duy trì kỷ luật tốt hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu luôn thấy chưa đủ giỏi để bắt đầu một việc?",
+"answer": "Đợi đến khi đủ giỏi mới bắt đầu thường khiến cơ hội bị trì hoãn, nên sinh viên nên bắt đầu ở mức có thể và học trong quá trình làm.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên coi sai sót là một phần của quá trình học không?",
+"answer": "Sai sót là điều bình thường trong quá trình trưởng thành, quan trọng là sinh viên biết rút kinh nghiệm và điều chỉnh.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu bị ám ảnh bởi việc phải làm mọi thứ hoàn hảo?",
+"answer": "Sinh viên nên tập trung vào việc hoàn thành tốt và đúng mục tiêu thay vì cố đạt mức hoàn hảo ở mọi chi tiết.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên phân biệt giữa mệt mỏi cần nghỉ và lười biếng cần hành động không?",
+"answer": "Biết phân biệt hai trạng thái này giúp sinh viên quyết định đúng lúc nên nghỉ thật sự hay nên bắt tay vào việc.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình luôn hối hận vì những việc chưa làm?",
+"answer": "Sinh viên nên chuyển cảm giác hối hận thành kế hoạch cụ thể cho hiện tại thay vì chỉ suy nghĩ về điều đã qua.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên xây một hệ thống phần thưởng và kỷ luật cho bản thân không?",
+"answer": "Một cơ chế rõ ràng giữa nỗ lực và phần thưởng có thể giúp sinh viên duy trì động lực và trách nhiệm cá nhân tốt hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu quá nhiều mục tiêu khiến mình rối?",
+"answer": "Sinh viên nên chọn ít mục tiêu hơn nhưng thật rõ ràng và đo được, sau đó dồn nguồn lực vào những thứ quan trọng nhất.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên viết ra điều mình không muốn trở thành không?",
+"answer": "Xác định điều mình không muốn cũng giúp sinh viên hiểu rõ hơn giới hạn và hướng đi phù hợp với bản thân.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu không thể giữ hứng thú lâu với một mục tiêu?",
+"answer": "Sinh viên nên gắn mục tiêu với lý do sâu hơn, giảm độ nhàm chán bằng cách thay đổi cách tiếp cận và chia nhỏ các mốc tiến bộ.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên xem lại thành quả cũ khi nản không?",
+"answer": "Nhìn lại những gì mình đã vượt qua có thể giúp sinh viên nhớ rằng bản thân vẫn đang tiến bộ, dù hiện tại đang khó khăn.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì để tăng sự tự tin khi bước vào môi trường mới?",
+"answer": "Sinh viên nên chuẩn bị kỹ những gì có thể, luyện giao tiếp ngắn và cho mình cơ hội làm quen dần thay vì ép phải hoàn hảo ngay.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên chấp nhận việc không ai lúc nào cũng ổn định hoàn toàn không?",
+"answer": "Hiểu rằng trạng thái lên xuống là bình thường giúp sinh viên bớt áp lực phải luôn hoàn hảo và ổn định mọi lúc.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì nếu thấy mình chỉ hoạt động tốt khi có áp lực?",
+"answer": "Sinh viên nên tập luyện khả năng bắt đầu sớm bằng các deadline tự đặt để không phụ thuộc hoàn toàn vào áp lực sát hạn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên tập thói quen hoàn thành việc sớm hơn dự kiến không?",
+"answer": "Hoàn thành sớm tạo ra khoảng đệm để chỉnh sửa, nghỉ ngơi và giảm áp lực không cần thiết.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu luôn đánh giá thấp khối lượng việc của tương lai?",
+"answer": "Sinh viên nên học từ kinh nghiệm cũ và giả định rằng mọi việc thường mất lâu hơn dự đoán ban đầu một chút.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên dành vài phút mỗi tối để chuẩn bị cho ngày mai không?",
+"answer": "Chỉ vài phút xem lịch, chuẩn bị đồ và xác định việc chính cũng có thể khiến ngày hôm sau trôi chảy hơn nhiều.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu sáng nào cũng quên việc cần làm?",
+"answer": "Sinh viên nên viết sẵn một danh sách ngắn từ tối hôm trước và đặt ở nơi dễ nhìn thấy vào buổi sáng.",
+"category": "tools"
+},
+{
+"question": "Sinh viên có nên gom các việc tốn ít năng lượng vào một khung giờ riêng không?",
+"answer": "Gom việc nhẹ lại với nhau giúp giữ những khoảng thời gian tỉnh táo cho các nhiệm vụ cần tập trung cao hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu cứ học một lúc là muốn đứng dậy làm việc khác?",
+"answer": "Sinh viên có thể lên các phiên học ngắn, nghỉ ngắn có chủ đích và dần kéo dài thời gian tập trung theo khả năng thật.",
+"category": "study"
+},
+{
+"question": "Sinh viên có nên đo lường tiến bộ bằng việc đã hoàn thành thay vì cảm giác bận rộn không?",
+"answer": "Đo lường bằng kết quả cụ thể sẽ giúp sinh viên đánh giá thực tế hơn và tránh ảo giác năng suất.",
+"category": "skills"
+},
+{
+"question": "Sinh viên nên làm gì nếu luôn cảm thấy mình đi chậm hơn kế hoạch?",
+"answer": "Sinh viên nên điều chỉnh kế hoạch dựa trên tốc độ thực tế, thay vì cố ép bản thân chạy theo một mốc không còn phù hợp.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên xem sức khỏe là một phần của năng suất không?",
+"answer": "Sức khỏe thể chất và tinh thần ảnh hưởng trực tiếp đến khả năng học và làm việc, nên không thể tách rời khỏi hiệu quả lâu dài.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu luôn trì hoãn những việc mình thấy mơ hồ?",
+"answer": "Sinh viên nên biến việc mơ hồ thành bước rất cụ thể đầu tiên để việc bắt đầu trở nên dễ dàng hơn.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên chủ động xây môi trường giúp mình học dễ hơn không?",
+"answer": "Thiết kế môi trường phù hợp thường hiệu quả hơn chỉ dựa vào ý chí, ví dụ dọn bàn học hoặc tắt bớt nguồn gây xao nhãng.",
+"category": "study"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy mình bị mắc kẹt trong vòng lặp cũ?",
+"answer": "Sinh viên nên thay đổi một yếu tố nhỏ nhưng quan trọng trong thói quen hàng ngày để tạo điểm bẻ mới cho chu kỳ đó.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên xem việc chăm sóc bản thân là trách nhiệm nghiêm túc không?",
+"answer": "Chăm sóc bản thân không phải xa xỉ mà là nền tảng giúp sinh viên duy trì học tập, công việc và các mối quan hệ bền vững hơn.",
+"category": "health"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy một mình quá lâu khiến tinh thần đi xuống?",
+"answer": "Sinh viên nên chủ động tìm tương tác tích cực với bạn bè, tham gia hoạt động nhẹ hoặc ra ngoài thay đổi không khí một chút.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên có nên duy trì một người bạn hoặc nhóm bạn để hỗ trợ nhau không?",
+"answer": "Một mạng lưới nhỏ nhưng đáng tin cậy có thể giúp sinh viên vượt qua những giai đoạn áp lực dễ dàng hơn.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên nên làm gì nếu cảm thấy khó kết nối với mọi người?",
+"answer": "Sinh viên có thể bắt đầu bằng các tương tác ngắn, ổn định và tập trung vào sự chân thành hơn là cố gây ấn tượng mạnh.",
+"category": "skills"
+},
+{
+"question": "Sinh viên có nên hiểu rằng tiến bộ không phải lúc nào cũng diễn ra nhanh và rõ rệt không?",
+"answer": "Nhiều tiến bộ diễn ra âm thầm theo thời gian, nên sinh viên cần kiên nhẫn và nhìn vào xu hướng dài hạn hơn là từng ngày riêng lẻ.",
+"category": "mental_health"
+},
+{
+"question": "Sinh viên nên làm gì để giữ vững bản thân trước nhiều thay đổi của đại học?",
+"answer": "Sinh viên nên bám vào những thói quen cốt lõi như ngủ đủ, lên kế hoạch, giữ kết nối tích cực và thường xuyên tự rà soát lại mình.",
+"category": "student_life"
+},
+{
+"question": "Sinh viên UIT nên bắt đầu từ đâu khi mới nhập học?",
+"answer": "Sinh viên nên kiểm tra email trường, đăng nhập các hệ thống chính, xem sơ đồ khuôn viên và theo dõi các thông báo dành cho tân sinh viên.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT có cần kiểm tra email trường thường xuyên không?",
+"answer": "Email trường thường được dùng cho các thông báo học vụ, hoạt động và hướng dẫn quan trọng nên sinh viên nên kiểm tra thường xuyên.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu chưa quen khuôn viên trường?",
+"answer": "Sinh viên có thể đi sớm hơn vào những tuần đầu, xem sơ đồ tòa nhà và hỏi nhân viên hoặc sinh viên khóa trên khi cần.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT có nên tham gia tuần sinh hoạt công dân đầu khóa không?",
+"answer": "Những buổi sinh hoạt đầu khóa thường giúp sinh viên hiểu quy định, hệ thống và môi trường học tập nên rất đáng tham gia.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT nên theo dõi thông tin học vụ ở đâu?",
+"answer": "Sinh viên nên theo dõi cổng thông tin học vụ, email trường và các kênh thông báo chính thức liên quan đến khoa hoặc lớp.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên lưu những kênh thông tin nào ngay từ đầu?",
+"answer": "Sinh viên nên lưu website trường, cổng học vụ, email trường, lịch học, các kênh thông báo của khoa và kênh hỗ trợ sinh viên nếu có.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT có nên theo dõi fanpage chính thức của trường không?",
+"answer": "Các kênh chính thức có thể giúp sinh viên cập nhật hoạt động, sự kiện và thông tin quan trọng nhanh hơn.",
+"category": "uit_info"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu không hiểu quy trình học vụ?",
+"answer": "Sinh viên nên đọc hướng dẫn chính thức trước, sau đó liên hệ cố vấn học tập, văn phòng khoa hoặc bộ phận hỗ trợ phù hợp.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT có nên làm quen với anh chị khóa trên không?",
+"answer": "Anh chị khóa trên có thể chia sẻ kinh nghiệm thực tế về môn học, lịch học, đồ án và định hướng nên rất hữu ích.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên hỏi anh chị khóa trên những gì?",
+"answer": "Sinh viên có thể hỏi về cách xếp lịch, kinh nghiệm học từng môn, nhóm học tập, hoạt động ngoại khóa và định hướng thực tập.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu gặp lỗi khi đăng nhập hệ thống trường?",
+"answer": "Sinh viên nên kiểm tra đúng tài khoản, mật khẩu, email trường và liên hệ bộ phận hỗ trợ kỹ thuật nếu lỗi kéo dài.",
+"category": "uit_technical"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu quên mật khẩu tài khoản trường?",
+"answer": "Sinh viên nên dùng quy trình khôi phục chính thức hoặc liên hệ bộ phận phụ trách tài khoản để được hỗ trợ.",
+"category": "uit_technical"
+},
+{
+"question": "Sinh viên UIT có cần đổi mật khẩu mặc định không?",
+"answer": "Đổi mật khẩu sớm giúp tăng an toàn cho tài khoản học vụ, email và các hệ thống liên quan của sinh viên.",
+"category": "uit_technical"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu lịch học bị thay đổi đột ngột?",
+"answer": "Sinh viên nên kiểm tra lại nguồn thông báo chính thức và theo dõi kỹ cập nhật mới nhất từ giảng viên hoặc khoa.",
+"category": "uit_schedule"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu bị trùng lịch học?",
+"answer": "Sinh viên nên rà soát lại kế hoạch đăng ký, tìm hiểu các lựa chọn lớp khác và xử lý sớm trước khi học kỳ diễn ra quá sâu.",
+"category": "uit_schedule"
+},
+{
+"question": "Sinh viên UIT có nên tự theo dõi mốc học kỳ không?",
+"answer": "Việc tự lưu các mốc như đăng ký học phần, điều chỉnh đăng ký, thi và kết thúc học kỳ giúp sinh viên tránh bị động.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên chuẩn bị gì trước khi đến trường vào ngày đầu?",
+"answer": "Sinh viên nên chuẩn bị thẻ sinh viên hoặc giấy tờ thay thế, xem trước phòng học, thời gian học và phương án di chuyển.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT có nên đi sớm vào những tuần đầu tiên không?",
+"answer": "Đi sớm giúp sinh viên dễ tìm phòng học, tránh lúng túng và có thời gian làm quen với khuôn viên trường.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu không tìm được phòng học?",
+"answer": "Sinh viên nên kiểm tra lại ký hiệu phòng, sơ đồ tòa nhà và hỏi nhân viên hoặc sinh viên khác gần khu vực đó.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT có nên tìm hiểu sơ đồ các tòa nhà trước không?",
+"answer": "Việc biết trước vị trí tòa nhà và phòng học giúp tiết kiệm thời gian và giảm căng thẳng trong những ngày đầu.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn tìm phòng tự học?",
+"answer": "Sinh viên có thể tìm hiểu các khu vực học tập trong trường và hỏi thêm thông tin từ bạn bè hoặc bộ phận hỗ trợ sinh viên.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT có nên ở lại trường giữa hai ca học không?",
+"answer": "Nếu khoảng cách giữa hai ca lớn, ở lại trường để nghỉ hoặc tự học thường tiết kiệm thời gian di chuyển hơn.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên tìm chỗ ngồi học yên tĩnh ở đâu?",
+"answer": "Sinh viên có thể ưu tiên thư viện, khu tự học hoặc các không gian học tập chung ít ồn hơn trong khuôn viên.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT có nên tận dụng thư viện để học nhóm không?",
+"answer": "Thư viện hoặc khu vực học tập phù hợp có thể là lựa chọn tốt nếu nhóm học giữ trật tự và tuân thủ quy định chung.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu wifi trường không ổn định?",
+"answer": "Sinh viên nên kiểm tra lại thiết bị, đăng nhập đúng tài khoản và tìm hỗ trợ kỹ thuật nếu sự cố kéo dài.",
+"category": "uit_technical"
+},
+{
+"question": "Sinh viên UIT có nên tải sẵn tài liệu trước khi đến lớp không?",
+"answer": "Chuẩn bị tài liệu trước giúp sinh viên theo dõi bài giảng tốt hơn và giảm phụ thuộc vào kết nối mạng tại thời điểm đó.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu không theo kịp một môn học?",
+"answer": "Sinh viên nên xử lý sớm bằng cách xem lại tài liệu, hỏi bạn bè, giảng viên hoặc tìm thêm nguồn hỗ trợ phù hợp.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT có nên học nhóm theo môn không?",
+"answer": "Nhóm học tập phù hợp có thể giúp sinh viên duy trì tiến độ và hiểu bài tốt hơn ở những môn khó.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên chọn bạn học nhóm như thế nào?",
+"answer": "Sinh viên nên ưu tiên những người có tinh thần trách nhiệm, lịch sinh hoạt tương đối phù hợp và thái độ hợp tác tốt.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT có nên tham gia nhóm lớp trên mạng xã hội không?",
+"answer": "Nhóm lớp có thể giúp cập nhật nhanh thông tin nhưng sinh viên vẫn nên đối chiếu với nguồn chính thức khi cần quyết định quan trọng.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu trong nhóm lớp có quá nhiều tin không chính thức?",
+"answer": "Sinh viên nên bình tĩnh kiểm chứng lại từ cổng thông tin, email trường hoặc giảng viên trước khi tin và hành động.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT có nên thường xuyên kiểm tra lịch thi từ sớm không?",
+"answer": "Theo dõi sớm giúp sinh viên chủ động kế hoạch ôn tập và tránh bị động ở giai đoạn cuối học kỳ.",
+"category": "uit_exam"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu lịch thi sát nhau?",
+"answer": "Sinh viên nên phân loại mức độ ưu tiên từng môn và lên kế hoạch ôn theo từng ngày một cách thực tế.",
+"category": "uit_exam"
+},
+{
+"question": "Sinh viên UIT có nên lưu lại đề cương môn học không?",
+"answer": "Đề cương môn học giúp sinh viên hiểu cấu trúc môn, yêu cầu đánh giá và phạm vi nội dung cần chú ý trong học kỳ.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu chưa hiểu cách tính điểm của môn?",
+"answer": "Sinh viên nên xem kỹ đề cương môn học và trao đổi lại với giảng viên hoặc trợ giảng khi cần làm rõ.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT có nên xem trước lộ trình tín chỉ của ngành không?",
+"answer": "Nắm được khung chương trình đào tạo giúp sinh viên lên kế hoạch học tập và chuẩn bị cho các học kỳ sau tốt hơn.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu không hiểu điều kiện tiên quyết của môn học?",
+"answer": "Sinh viên nên tra cứu trong chương trình đào tạo hoặc hỏi cố vấn học tập để tránh đăng ký sai hoặc gặp rắc rối sau này.",
+"category": "uit_registration"
+},
+{
+"question": "Sinh viên UIT có nên học vượt không?",
+"answer": "Học vượt cần cân nhắc kỹ vì khối lượng học lớn hơn có thể tạo áp lực nếu sinh viên chưa có nền tảng và quản lý thời gian tốt.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn giảm tải học kỳ?",
+"answer": "Sinh viên nên đánh giá năng lực hiện tại, theo dõi các mốc học vụ và xây lại kế hoạch học tập phù hợp hơn với mục tiêu cá nhân.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT có nên lên kế hoạch dài hạn cho toàn khóa không?",
+"answer": "Một kế hoạch tổng quát cho toàn khóa giúp sinh viên chủ động hơn về tín chỉ, thực tập, đồ án và các mục tiêu nghề nghiệp.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn học song song kỹ năng ngoài chương trình?",
+"answer": "Sinh viên nên chọn một số kỹ năng thật sự liên quan thay vì học dàn trải quá nhiều thứ cùng lúc.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên ưu tiên kỹ năng hay điểm số?",
+"answer": "Điểm số và kỹ năng đều quan trọng, nên sinh viên cần cân bằng giữa nền tảng học thuật và khả năng áp dụng thực tế.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu chưa biết chọn hướng nghề nghiệp nào trong ngành?",
+"answer": "Sinh viên có thể tìm hiểu từ môn học, dự án, seminar, câu lạc bộ và trải nghiệm thực tế để hiểu bản thân rõ hơn.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên tham gia seminar công nghệ không?",
+"answer": "Seminar giúp sinh viên mở rộng góc nhìn về ngành, công nghệ mới và định hướng nghề nghiệp trong tương lai.",
+"category": "uit_events"
+},
+{
+"question": "Sinh viên UIT nên làm gì sau khi tham gia một buổi talk chuyên ngành?",
+"answer": "Sinh viên nên ghi lại các ý quan trọng, tìm hiểu thêm về chủ đề liên quan và nếu phù hợp thì kết nối với người chia sẻ.",
+"category": "uit_events"
+},
+{
+"question": "Sinh viên UIT có nên tham gia câu lạc bộ chuyên môn không?",
+"answer": "Các câu lạc bộ chuyên môn thường giúp sinh viên có môi trường thực hành, kết nối và học hỏi ngoài lớp học.",
+"category": "uit_clubs"
+},
+{
+"question": "Sinh viên UIT nên chọn câu lạc bộ theo sở thích hay theo định hướng nghề nghiệp?",
+"answer": "Lý tưởng nhất là chọn nơi vừa phù hợp sở thích vừa giúp phát triển kỹ năng liên quan đến mục tiêu dài hạn.",
+"category": "uit_clubs"
+},
+{
+"question": "Sinh viên UIT có nên tham gia ban điều hành câu lạc bộ không?",
+"answer": "Vai trò tổ chức có thể giúp sinh viên phát triển leadership, giao tiếp và kỹ năng vận hành dự án thực tế.",
+"category": "uit_clubs"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu tham gia câu lạc bộ nhưng bị quá tải?",
+"answer": "Sinh viên nên xem lại lịch cá nhân, giảm bớt vai trò không cần thiết và ưu tiên việc học nếu đang chịu áp lực lớn.",
+"category": "uit_clubs"
+},
+{
+"question": "Sinh viên UIT có nên tham gia cuộc thi học thuật trong trường không?",
+"answer": "Những cuộc thi như vậy giúp sinh viên cọ xát, luyện kỹ năng và xây dựng trải nghiệm đáng giá cho hồ sơ cá nhân.",
+"category": "uit_events"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn tham gia nghiên cứu với giảng viên?",
+"answer": "Sinh viên nên tìm hiểu lĩnh vực của giảng viên, chuẩn bị thái độ nghiêm túc và thể hiện rõ sự quan tâm khi liên hệ.",
+"category": "uit_research"
+},
+{
+"question": "Sinh viên UIT có nên bắt đầu nghiên cứu từ sớm không?",
+"answer": "Nếu có hứng thú và nền tảng phù hợp, bắt đầu sớm có thể giúp sinh viên tích lũy kinh nghiệm học thuật rất tốt.",
+"category": "uit_research"
+},
+{
+"question": "Sinh viên UIT nên chuẩn bị gì trước khi xin tham gia một nhóm nghiên cứu?",
+"answer": "Sinh viên nên đọc trước về chủ đề, tự đánh giá kiến thức nền và chuẩn bị cách giới thiệu bản thân ngắn gọn, rõ ràng.",
+"category": "uit_research"
+},
+{
+"question": "Sinh viên UIT có nên tham gia trợ giảng hoặc hỗ trợ học tập không?",
+"answer": "Nếu có cơ hội phù hợp, đây là trải nghiệm tốt để củng cố kiến thức và rèn kỹ năng truyền đạt.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn tìm internship liên quan ngành sớm?",
+"answer": "Sinh viên nên xây nền kỹ năng, chuẩn bị CV, tham gia dự án nhỏ và theo dõi các cơ hội từ trường hoặc cộng đồng chuyên môn.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên đi thực tập từ năm 2 không?",
+"answer": "Đi thực tập sớm có thể hữu ích nếu sinh viên đã có nền tảng nhất định và vẫn giữ được cân bằng với việc học.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu chưa đủ tự tin để ứng tuyển intern?",
+"answer": "Sinh viên có thể bắt đầu bằng dự án cá nhân, rèn kỹ năng cơ bản và tìm các vị trí phù hợp với mức kinh nghiệm hiện tại.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên đưa hoạt động câu lạc bộ vào CV không?",
+"answer": "Nếu hoạt động đó cho thấy kỹ năng, trách nhiệm hoặc thành tích rõ ràng thì rất nên đưa vào CV.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì để CV phù hợp hơn với ngành công nghệ?",
+"answer": "Sinh viên nên nhấn mạnh kỹ năng, dự án, công cụ đã dùng, vai trò trong nhóm và các kết quả cụ thể nếu có.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên xây GitHub cá nhân không?",
+"answer": "GitHub có thể là nơi tốt để lưu dự án, thể hiện quá trình học và tăng độ tin cậy cho hồ sơ nghề nghiệp.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu GitHub còn trống?",
+"answer": "Sinh viên có thể bắt đầu bằng những dự án nhỏ, bài tập được chọn lọc và các sản phẩm thể hiện khả năng rõ ràng nhất.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên xây portfolio riêng không?",
+"answer": "Portfolio sẽ rất hữu ích nếu sinh viên có nhiều dự án, sản phẩm hoặc muốn ứng tuyển vào các vị trí thiên về thực hành.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu chưa có dự án cá nhân?",
+"answer": "Sinh viên có thể bắt đầu từ một vấn đề nhỏ mình quan tâm và làm sản phẩm đơn giản nhưng hoàn chỉnh để tích lũy kinh nghiệm.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên tham gia các nhóm học thuật của khoa không?",
+"answer": "Các nhóm học thuật có thể giúp sinh viên cập nhật thông tin, học hỏi kinh nghiệm và kết nối với những người cùng định hướng.",
+"category": "uit_academic"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu thấy mình chưa tận dụng hết môi trường đại học?",
+"answer": "Sinh viên nên chọn một vài cơ hội cụ thể để tham gia như câu lạc bộ, workshop, dự án hoặc hoạt động nghiên cứu.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT có nên ưu tiên học ở thư viện hay ở nhà?",
+"answer": "Điều này tùy vào mức độ tập trung của mỗi người, nhưng thư viện thường phù hợp nếu sinh viên cần không gian ổn định và ít xao nhãng hơn.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu khó tập trung khi học ở trường?",
+"answer": "Sinh viên có thể thử đổi khu vực học, chọn khung giờ ít đông hơn hoặc dùng tai nghe chống ồn nếu phù hợp.",
+"category": "uit_facilities"
+},
+{
+"question": "Sinh viên UIT có nên mang laptop đến trường mỗi ngày không?",
+"answer": "Nếu lịch học và công việc trong ngày cần dùng máy, mang laptop sẽ thuận tiện; nếu không cần thì có thể giảm bớt để đỡ nặng.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu quên mang laptop vào ngày cần làm việc nhóm?",
+"answer": "Sinh viên nên chủ động trao đổi với nhóm, tận dụng thiết bị thay thế nếu có và rút kinh nghiệm chuẩn bị checklist tốt hơn.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT có nên sắp xếp lịch học để đỡ phải di chuyển nhiều không?",
+"answer": "Nếu hệ thống và điều kiện cho phép, sắp xếp lịch hợp lý có thể giúp tiết kiệm năng lượng và thời gian mỗi tuần.",
+"category": "uit_schedule"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu một ngày có quá nhiều khoảng trống giữa các ca?",
+"answer": "Sinh viên có thể tận dụng thời gian đó để tự học, đọc tài liệu, họp nhóm hoặc xử lý các việc cá nhân liên quan.",
+"category": "uit_schedule"
+},
+{
+"question": "Sinh viên UIT có nên dùng khoảng thời gian rảnh ở trường để học không?",
+"answer": "Tận dụng thời gian rải rác trong ngày có thể giúp giảm tải cho buổi tối và tăng hiệu quả tổng thể.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu thường xuyên mệt vào cuối ngày học ở trường?",
+"answer": "Sinh viên nên xem lại việc ăn uống, ngủ nghỉ, di chuyển và khối lượng lịch trong ngày để điều chỉnh phù hợp hơn.",
+"category": "uit_health"
+},
+{
+"question": "Sinh viên UIT có nên mang theo đồ ăn nhẹ khi đến trường không?",
+"answer": "Đồ ăn nhẹ lành mạnh có thể hữu ích nếu sinh viên có lịch dày và ít thời gian giữa các ca học.",
+"category": "uit_health"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu cảm thấy khó cân bằng giữa học và hoạt động ngoại khóa?",
+"answer": "Sinh viên nên giảm bớt hoạt động không cần thiết và giữ ưu tiên rõ ràng theo từng giai đoạn của học kỳ.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT có nên tham gia mọi cơ hội mình thấy thú vị không?",
+"answer": "Không phải cơ hội nào cũng cần nhận, sinh viên nên chọn lọc theo mục tiêu, thời gian và khả năng duy trì.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu quá tải vì vừa học vừa hoạt động vừa làm thêm?",
+"answer": "Sinh viên nên đánh giá lại ưu tiên và dũng cảm cắt bớt phần không còn phù hợp thay vì cố gồng quá lâu.",
+"category": "uit_student_life"
+},
+{
+"question": "Sinh viên UIT có nên xây nhóm bạn cùng định hướng nghề nghiệp không?",
+"answer": "Một nhóm bạn có chung mục tiêu có thể giúp chia sẻ tài nguyên, giữ động lực và hỗ trợ nhau trong quá trình phát triển.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn theo đuổi AI hoặc khoa học dữ liệu?",
+"answer": "Sinh viên nên xây nền toán, lập trình, học máy cơ bản và tìm cơ hội tham gia dự án hoặc nhóm học tập liên quan.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn theo đuổi web hoặc phần mềm?",
+"answer": "Sinh viên nên học chắc nền tảng, làm dự án nhỏ, luyện kỹ năng xây dựng sản phẩm và cập nhật công cụ phù hợp với hướng mình chọn.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT có nên học thêm kỹ năng phỏng vấn kỹ thuật không?",
+"answer": "Nếu định hướng thực tập hoặc việc làm sớm, việc luyện cách trình bày kiến thức và trả lời phỏng vấn là rất hữu ích.",
+"category": "uit_career"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu còn yếu kỹ năng giao tiếp dù học ngành kỹ thuật?",
+"answer": "Sinh viên có thể rèn thông qua thuyết trình, hoạt động nhóm, câu lạc bộ và các tình huống giao tiếp thực tế trong trường.",
+"category": "uit_skills"
+},
+{
+"question": "Sinh viên UIT có nên xem kỹ năng mềm là quan trọng ngang với kỹ năng chuyên môn không?",
+"answer": "Kỹ năng mềm không thay thế chuyên môn nhưng thường quyết định cách sinh viên làm việc nhóm, trình bày và phát triển lâu dài.",
+"category": "uit_skills"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu không biết hỏi ai khi gặp vấn đề ở trường?",
+"answer": "Sinh viên nên xác định vấn đề thuộc học vụ, kỹ thuật, khoa hay hoạt động để liên hệ đúng bộ phận thay vì hỏi lan man quá nhiều nơi.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT có nên lưu sẵn danh sách liên hệ quan trọng không?",
+"answer": "Lưu lại các đầu mối hỗ trợ như khoa, phòng ban hoặc bộ phận kỹ thuật sẽ giúp sinh viên xử lý vấn đề nhanh hơn khi cần.",
+"category": "uit_onboarding"
+},
+{
+"question": "Sinh viên UIT nên làm gì nếu muốn tận dụng đại học nhiều nhất có thể?",
+"answer": "Sinh viên nên học nghiêm túc, chủ động tìm cơ hội, xây mối quan hệ tốt, thử thách bản thân và phản tư thường xuyên về hướng đi của mình.",
+"category": "uit_student_life"
+}
+]
+
+

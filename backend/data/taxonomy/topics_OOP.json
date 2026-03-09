@@ -1,0 +1,12 @@
+{
+  "subject": "OOP",
+  "topics": [
+    { "id": "class_object", "name": "Class & Object", "keywords": ["class", "object", "đối tượng", "thuộc tính", "phương thức", "instance"] },
+    { "id": "encapsulation", "name": "Đóng gói", "keywords": ["encapsulation", "đóng gói", "private", "public", "protected", "getter", "setter"] },
+    { "id": "inheritance", "name": "Kế thừa", "keywords": ["inheritance", "kế thừa", "extends", "super", "base class", "derived"] },
+    { "id": "polymorphism", "name": "Đa hình", "keywords": ["polymorphism", "đa hình", "override", "overload", "dynamic binding"] },
+    { "id": "abstraction", "name": "Trừu tượng", "keywords": ["abstraction", "trừu tượng", "abstract", "interface", "implements"] },
+    { "id": "exception", "name": "Exception", "keywords": ["exception", "try", "catch", "throw", "finally", "lỗi ngoại lệ"] },
+    { "id": "design_patterns", "name": "Design Patterns", "keywords": ["pattern", "singleton", "factory", "observer", "strategy", "design pattern"] }
+  ]
+}

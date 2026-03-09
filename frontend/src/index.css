@@ -1,0 +1,163 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800;
+  background-image:
+    radial-gradient(circle at top left, rgba(59, 130, 246, 0.08), transparent 24%),
+    radial-gradient(circle at top right, rgba(14, 165, 233, 0.08), transparent 20%),
+    linear-gradient(to bottom, #f8fafc, #f1f5f9);
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes floatSoft {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 0 rgba(37, 99, 235, 0);
+  }
+  50% {
+    box-shadow: 0 0 22px rgba(37, 99, 235, 0.18);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease;
+}
+
+.animate-float-soft {
+  animation: floatSoft 3.5s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulseGlow 2.5s ease-in-out infinite;
+}
+
+.glass-card {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.soft-card {
+  @apply bg-white border border-white/60 rounded-2xl shadow-sm;
+  box-shadow:
+    0 10px 30px rgba(15, 23, 42, 0.05),
+    0 2px 8px rgba(15, 23, 42, 0.03);
+}
+
+.soft-card-hover {
+  transition: all 220ms ease;
+}
+
+.soft-card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow:
+    0 18px 38px rgba(15, 23, 42, 0.08),
+    0 6px 16px rgba(37, 99, 235, 0.08);
+}
+
+.gradient-primary {
+  background: linear-gradient(135deg, #00529c 0%, #2563eb 100%);
+}
+
+.gradient-soft {
+  background: linear-gradient(135deg, rgba(219, 234, 254, 0.9) 0%, rgba(255,255,255,0.9) 55%, rgba(240,249,255,0.95) 100%);
+}
+
+.glow-blue {
+  box-shadow: 0 10px 24px rgba(37, 99, 235, 0.18);
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(226, 232, 240, 0.7) 25%,
+    rgba(241, 245, 249, 1) 50%,
+    rgba(226, 232, 240, 0.7) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite linear;
+}
+
+.btn-primary-ui {
+  @apply text-white font-extrabold rounded-xl transition-all duration-200;
+  background: linear-gradient(135deg, #00529c 0%, #2563eb 100%);
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.18);
+}
+
+.btn-primary-ui:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 28px rgba(37, 99, 235, 0.24);
+}
+
+.btn-secondary-ui {
+  @apply bg-white border border-gray-200 text-slate-700 font-bold rounded-xl transition-all duration-200;
+}
+
+.btn-secondary-ui:hover {
+  @apply bg-slate-50;
+  transform: translateY(-1px);
+}
+
+.input-ui {
+  @apply w-full rounded-xl border border-gray-200 bg-slate-50 text-slate-700 placeholder:text-slate-400 transition-all;
+}
+
+.input-ui:focus {
+  @apply outline-none border-blue-500;
+  box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.12);
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.55);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(100, 116, 139, 0.7);
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}

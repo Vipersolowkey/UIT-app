@@ -1,0 +1,51 @@
+[
+  {
+    "id": "oop_code_01",
+    "subject": "oop",
+    "topics": ["inheritance", "polymorphism"],
+    "difficulty": "easy",
+    "title": "Animal Sounds",
+    "description": "Implement base class Animal with method speak(). Create Dog/Cat override speak(). Print sounds based on input.\n\nInput: a list of animal types.\nOutput: corresponding sounds.",
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\n\nint main(){\n  ios::sync_with_stdio(false);\n  cin.tie(nullptr);\n  // TODO\n  return 0;\n}\n",
+      "java": "import java.util.*;\npublic class Main{\n  public static void main(String[] args){\n    // TODO\n  }\n}\n"
+    },
+    "samples": [
+      { "input": "3\ndog\ncat\ndog\n", "output": "woof\nmeow\nwoof\n" }
+    ],
+    "timeLimitMs": 1500,
+    "memoryLimitMb": 256
+  },
+  {
+    "id": "oop_code_02",
+    "subject": "oop",
+    "topics": ["encapsulation", "constructor"],
+    "difficulty": "easy",
+    "title": "Bank Account",
+    "description": "Design class BankAccount with balance, deposit, withdraw. Read commands and print balance after each command.",
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\nint main(){ios::sync_with_stdio(false);cin.tie(nullptr);\n  // TODO\n  return 0;\n}\n"
+    },
+    "samples": [
+      { "input": "4\ndeposit 100\nwithdraw 30\nwithdraw 100\ndeposit 50\n", "output": "100\n70\n70\n120\n" }
+    ],
+    "timeLimitMs": 1500,
+    "memoryLimitMb": 256
+  },
+  {
+    "id": "nmlt_code_01",
+    "subject": "nmlt",
+    "topics": ["array", "two pointers"],
+    "difficulty": "easy",
+    "title": "Two Sum (Sorted)",
+    "description": "Given sorted array, find two numbers whose sum equals S. Output indices (1-based) or -1.",
+    "languageTemplates": {
+      "cpp": "#include <bits/stdc++.h>\nusing namespace std;\nint main(){ios::sync_with_stdio(false);cin.tie(nullptr);\n  int n; long long S; cin>>n>>S;\n  vector<long long>a(n); for(int i=0;i<n;i++)cin>>a[i];\n  // TODO\n  return 0;\n}\n"
+    },
+    "samples": [
+      { "input": "5 9\n1 2 3 6 7\n", "output": "2 4\n" }
+    ],
+    "timeLimitMs": 1500,
+    "memoryLimitMb": 256
+  }
+]

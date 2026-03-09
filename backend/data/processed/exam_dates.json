@@ -1,0 +1,4 @@
+[
+  {"subject": "CTDL", "exam_date": "2026-03-10", "topics": ["Cây", "Heap"]},
+  {"subject": "OOP", "exam_date": "2026-03-12", "topics": ["Class", "Polymorphism"]}
+]
