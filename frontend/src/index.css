@@ -161,3 +161,326 @@ body {
 .custom-scrollbar::-webkit-scrollbar-track {
   background: transparent;
 }
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes floatSoft {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease;
+}
+
+.animate-float-soft {
+  animation: floatSoft 3.5s ease-in-out infinite;
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(226, 232, 240, 0.7) 25%,
+    rgba(241, 245, 249, 1) 50%,
+    rgba(226, 232, 240, 0.7) 75%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite linear;
+}
+
+.btn-primary-ui {
+  color: white;
+  font-weight: 800;
+  background: linear-gradient(135deg, #00529c 0%, #2563eb 100%);
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.18);
+  transition: all 0.2s ease;
+}
+
+.btn-primary-ui:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 28px rgba(37, 99, 235, 0.24);
+}
+
+.btn-secondary-ui {
+  background: white;
+  border: 1px solid rgb(229 231 235);
+  color: rgb(51 65 85);
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.btn-secondary-ui:hover {
+  background: rgb(248 250 252);
+  transform: translateY(-1px);
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 9px;
+  height: 9px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.55);
+  border-radius: 999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.35s ease;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.5);
+  border-radius: 999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+* {
+  transition: background-color 0.25s ease, color 0.25s ease;
+}
+
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ============================= */
+/* GLOBAL TRANSITION */
+/* ============================= */
+
+* {
+  transition:
+    background-color 0.25s ease,
+    color 0.25s ease,
+    border-color 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+/* ============================= */
+/* THEME BACKGROUND */
+/* ============================= */
+
+html.light {
+  background: #f8fafc;
+}
+
+html.dark {
+  background: #020617;
+}
+
+html.mono {
+  background: #000000;
+}
+
+/* ============================= */
+/* SCROLLBAR */
+/* ============================= */
+
+.custom-scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.5);
+  border-radius: 999px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* ============================= */
+/* BUTTON UI */
+/* ============================= */
+
+.btn-primary-ui {
+  color: white;
+  font-weight: 700;
+  background: linear-gradient(135deg, #00529c 0%, #2563eb 100%);
+  box-shadow: 0 10px 20px rgba(37, 99, 235, 0.18);
+  transition: all 0.2s ease;
+}
+
+.btn-primary-ui:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 28px rgba(37, 99, 235, 0.24);
+}
+
+.btn-secondary-ui {
+  background: white;
+  border: 1px solid rgb(229 231 235);
+  color: rgb(51 65 85);
+  font-weight: 700;
+  transition: all 0.2s ease;
+}
+
+.btn-secondary-ui:hover {
+  background: rgb(248 250 252);
+  transform: translateY(-1px);
+}
+
+/* DARK BUTTON */
+
+.dark .btn-secondary-ui {
+  background: #020617;
+  border: 1px solid #1e293b;
+  color: #e2e8f0;
+}
+
+.dark .btn-secondary-ui:hover {
+  background: #020617;
+}
+
+/* MONO BUTTON */
+
+.mono .btn-secondary-ui {
+  background: black;
+  border: 1px solid #333;
+  color: white;
+}
+
+/* ============================= */
+/* FADE IN ANIMATION */
+/* ============================= */
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px) scale(0.995);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.35s ease;
+}
+
+/* ============================= */
+/* FLOAT ANIMATION */
+/* ============================= */
+
+@keyframes floatSoft {
+  0%,100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-4px);
+  }
+}
+
+.animate-float-soft {
+  animation: floatSoft 3.5s ease-in-out infinite;
+}
+
+/* ============================= */
+/* SHIMMER SKELETON */
+/* ============================= */
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(226,232,240,0.7) 25%,
+    rgba(241,245,249,1) 50%,
+    rgba(226,232,240,0.7) 75%
+  );
+
+  background-size: 200% 100%;
+  animation: shimmer 1.6s infinite linear;
+}
+
+/* ============================= */
+/* CARD HOVER */
+/* ============================= */
+
+.soft-card-hover {
+  transition: all 0.25s ease;
+}
+
+.soft-card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 20px 45px rgba(15,23,42,0.08);
+}
+
+/* ============================= */
+/* GLASS BACKDROP */
+/* ============================= */
+
+.glass {
+  backdrop-filter: blur(14px);
+  background: rgba(255,255,255,0.75);
+}
+
+.dark .glass {
+  background: rgba(15,23,42,0.75);
+}
+
+.mono .glass {
+  background: rgba(0,0,0,0.8);
+}
+
+/* ============================= */
+/* CHAT MESSAGE */
+/* ============================= */
+
+.message-enter {
+  animation: fadeIn 0.3s ease;
+}
+
+/* ============================= */
+/* MOBILE SMOOTH */
+/* ============================= */
+
+html {
+  scroll-behavior: smooth;
+}
