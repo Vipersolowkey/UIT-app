@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { loginAPI } from '../api/login';
 import logoUit from '../assets/logo_uit.png';
 

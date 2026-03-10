@@ -1,5 +1,4 @@
 // src/pages/CodingPractice.tsx
-import React from "react";
 import LeetCodeMock from "../components/LeetCodeMock";
 
 export default function CodingPractice() {

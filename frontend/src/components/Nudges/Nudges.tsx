@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import { acceptNudgeAPI, fetchTodayNudgesAPI, type NudgeItem } from "../../api/nudges";
 
 interface NudgesProps {

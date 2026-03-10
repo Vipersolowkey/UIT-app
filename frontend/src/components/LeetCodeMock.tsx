@@ -1,5 +1,5 @@
 // src/components/LeetCodeMock.tsx
-import React, { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import { CODING_PROBLEMS, type CodingProblem } from "../data/coding_problems";
 import { runJudgeMock, type JudgeResult } from "../api/judge_mock";
 

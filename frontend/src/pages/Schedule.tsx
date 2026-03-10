@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { fetchScheduleAPI } from '../api/schedule';
 import type { ScheduleItem } from '../api/schedule';
 

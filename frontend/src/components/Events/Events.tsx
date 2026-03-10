@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { fetchEventsAPI } from '../../api/events';
 import type { UITEvent } from '../../api/events';
 
