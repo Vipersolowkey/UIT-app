@@ -33,7 +33,19 @@ VECTOR_SIZE = int(os.getenv("QDRANT_VECTOR_SIZE", "384"))
 # ==============================
 # Init Qdrant
 # ==============================
-qdrant = QdrantClient(host=QDRANT_HOST, port=QDRANT_PORT)
+QDRANT_URL = os.getenv("QDRANT_URL")
+QDRANT_API_KEY = os.getenv("QDRANT_API_KEY")
+
+if QDRANT_URL:
+    qdrant = QdrantClient(
+        url=QDRANT_URL,
+        api_key=QDRANT_API_KEY
+    )
+else:
+    qdrant = QdrantClient(
+        host=QDRANT_HOST,
+        port=QDRANT_PORT
+    )
 
 
 def ensure_collection() -> None:
@@ -130,3 +142,8 @@ app.include_router(attempts_router)
 @app.get("/health")
 def health():
     return {"status": "ok"}
+
+
+@app.get("/")
+def root():
+    return {"message": "UIT backend is running"}
