@@ -43,7 +43,8 @@ export const fetchChatHistoryAPI = async (): Promise<ChatMessage[]> => {
 // ==============================
 // 5) API config
 // ==============================
-const API_BASE = import.meta.env.VITE_API_BASE || "http://localhost:8000";
+const API_BASE =
+  import.meta.env.VITE_API_BASE_URL || "https://uit-app.onrender.com";
 
 // ✅ chỉnh đúng theo Swagger:
 // - "/chat" nếu endpoint là POST /chat

@@ -60,8 +60,7 @@ export interface ExamDetail {
 }
 
 const API_BASE =
-  (import.meta as any).env?.VITE_API_BASE || "http://localhost:8000";
-
+  (import.meta as any).env?.VITE_API_BASE_URL || "https://uit-app.onrender.com";
 async function safeJson(res: Response) {
   const text = await res.text();
   try {
