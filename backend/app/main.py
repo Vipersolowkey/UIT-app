@@ -90,7 +90,11 @@ app = FastAPI(title="UIT RAG Assistant")
 # ==============================
 # CORS
 # ==============================
-ALLOWED_ORIGINS = os.getenv("ALLOWED_ORIGINS", "http://localhost:5173").split(",")
+ALLOWED_ORIGINS = [
+    "http://localhost:5173",
+    "https://uit-app-three.vercel.app",
+    "https://uit-9e15qerqg-vipersolowkeys-projects.vercel.app"
+]
 
 app.add_middleware(
     CORSMiddleware,
