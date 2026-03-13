@@ -20,7 +20,7 @@ This project demonstrates how modern AI tools can enhance self-learning, exam pr
 Live Demo
 
 Frontend
-https://your-vercel-link
+https://uit-app-three.vercel.app/
 
 Backend API Docs
 https://uit-app.onrender.com/health
